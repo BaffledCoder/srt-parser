@@ -1,0 +1,5616 @@
+Start Time(in millisecond): 533ms
+End Time(in millisecond): 2936ms
+Position: Bottom
+Plain Text:  CC: TELEMUNDO NETWORK
+Formatted Text: 
+Text:  CC: TELEMUNDO NETWORK
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #FFFF00
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 5405ms
+End Time(in millisecond): 9709ms
+Position: Bottom
+Plain Text: >> TE VOY A AYUDAR, PERO
+Formatted Text: 
+Text: >> TE VOY A AYUDAR, PERO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 6539ms
+End Time(in millisecond): 11177ms
+Position: Bottom
+Plain Text: NO POR TUS AMENAZAS.
+Formatted Text: 
+Text: NO POR TUS AMENAZAS.
+Is Bold: 0
+Is Italic: 1
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 8641ms
+End Time(in millisecond): 12178ms
+Position: Bottom
+Plain Text: LO HAGO POR MÍ, PARA
+Formatted Text: 
+Text: LO HAGO POR MÍ, PARA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 9776ms
+End Time(in millisecond): 13580ms
+Position: Bottom
+Plain Text: LIMPIAR MI CONCIENCIA.
+Formatted Text: 
+Text: LIMPIAR MI CONCIENCIA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 11244ms
+End Time(in millisecond): 16583ms
+Position: Bottom
+Plain Text: >> ES QUE ES MUY PELIGROSO,
+Formatted Text: 
+Text: >> ES QUE ES MUY PELIGROSO,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 12245ms
+End Time(in millisecond): 18084ms
+Position: Bottom
+Plain Text: HIJO, NO LO HAGAS.
+Formatted Text: 
+Text: HIJO, NO LO HAGAS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 13646ms
+End Time(in millisecond): 19619ms
+Position: Bottom
+Plain Text: >>SHHH... LO TENGO QUE HACER.
+Formatted Text: 
+Text: >>SHHH... LO TENGO QUE HACER.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 16649ms
+End Time(in millisecond): 20987ms
+Position: Bottom
+Plain Text: LE DIJE QUE CAMBIARÍA, Y ES LA
+Formatted Text: 
+Text: LE DIJE QUE CAMBIARÍA, Y ES LA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 18151ms
+End Time(in millisecond): 23223ms
+Position: Bottom
+Plain Text: FORMA DE DEMOSTRÁRSELO.
+Formatted Text: 
+Text: FORMA DE DEMOSTRÁRSELO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 19686ms
+End Time(in millisecond): 24691ms
+Position: Bottom
+Plain Text: >> YO TE DIJE QUE CLEMENTE TE
+Formatted Text: 
+Text: >> YO TE DIJE QUE CLEMENTE TE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 21054ms
+End Time(in millisecond): 25658ms
+Position: Bottom
+Plain Text: IBA A ACUSAR. ¿Y QUÉ HICISTE?
+Formatted Text: 
+Text: IBA A ACUSAR. ¿Y QUÉ HICISTE?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 23323ms
+End Time(in millisecond): 26693ms
+Position: Bottom
+Plain Text: ¡LO ELIMINASTE!
+Formatted Text: 
+Text: ¡LO ELIMINASTE!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 24758ms
+End Time(in millisecond): 27394ms
+Position: Bottom
+Plain Text: >>¡YO NO HE HECHO NADA!
+Formatted Text: 
+Text: >>¡YO NO HE HECHO NADA!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 25725ms
+End Time(in millisecond): 29529ms
+Position: Bottom
+Plain Text: >>¡CLARO QUE TÚ LO MATASTE,
+Formatted Text: 
+Text: >>¡CLARO QUE TÚ LO MATASTE,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 26759ms
+End Time(in millisecond): 32432ms
+Position: Bottom
+Plain Text: MAMÁ!
+Formatted Text: 
+Text: MAMÁ!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 27493ms
+End Time(in millisecond): 34100ms
+Position: Bottom
+Plain Text: ¡ESTOY SEGURO QUE TÚ LO MATASTE!
+Formatted Text: 
+Text: ¡ESTOY SEGURO QUE TÚ LO MATASTE!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 29596ms
+End Time(in millisecond): 35068ms
+Position: Bottom
+Plain Text: >> MI HIJA COMETIÓ UN CRIMEN.
+Formatted Text: 
+Text: >> MI HIJA COMETIÓ UN CRIMEN.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 32499ms
+End Time(in millisecond): 36302ms
+Position: Bottom
+Plain Text: SU ERROR FUE HABERSE
+Formatted Text: 
+Text: SU ERROR FUE HABERSE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 34167ms
+End Time(in millisecond): 39139ms
+Position: Bottom
+Plain Text: METIDO CON UN CASADO,
+Formatted Text: 
+Text: METIDO CON UN CASADO,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 35135ms
+End Time(in millisecond): 43009ms
+Position: Bottom
+Plain Text: Y DIOS LA ESTÁ CASTIGANDO.
+Formatted Text: 
+Text: Y DIOS LA ESTÁ CASTIGANDO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 36369ms
+End Time(in millisecond): 44577ms
+Position: Bottom
+Plain Text: >> LETICIA ES INOCENTE.
+Formatted Text: 
+Text: >> LETICIA ES INOCENTE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 39205ms
+End Time(in millisecond): 46379ms
+Position: Bottom
+Plain Text: >>¡PAPÁ, POR FIN LLEGASTE!
+Formatted Text: 
+Text: >>¡PAPÁ, POR FIN LLEGASTE!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 43076ms
+End Time(in millisecond): 47547ms
+Position: Bottom
+Plain Text: >> SÍ, MI AMOR. TUVE QUE
+Formatted Text: 
+Text: >> SÍ, MI AMOR. TUVE QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 44644ms
+End Time(in millisecond): 49315ms
+Position: Bottom
+Plain Text: RESOLVER UNAS COSAS.
+Formatted Text: 
+Text: RESOLVER UNAS COSAS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 46446ms
+End Time(in millisecond): 50417ms
+Position: Bottom
+Plain Text: >> NO QUIERO SEPARARME
+Formatted Text: 
+Text: >> NO QUIERO SEPARARME
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 47613ms
+End Time(in millisecond): 51918ms
+Position: Bottom
+Plain Text: NUNCA DE TI. TE AMO.
+Formatted Text: 
+Text: NUNCA DE TI. TE AMO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 49382ms
+End Time(in millisecond): 52919ms
+Position: Bottom
+Plain Text: >> RAQUEL, TE ADVERTÍ QUE LE
+Formatted Text: 
+Text: >> RAQUEL, TE ADVERTÍ QUE LE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 50483ms
+End Time(in millisecond): 53853ms
+Position: Bottom
+Plain Text: IBA A DECIR TODO A TUS HIJOS.
+Formatted Text: 
+Text: IBA A DECIR TODO A TUS HIJOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 51985ms
+End Time(in millisecond): 55288ms
+Position: Bottom
+Plain Text: ASÍ QUE SI ME QUIERES CALLAR,
+Formatted Text: 
+Text: ASÍ QUE SI ME QUIERES CALLAR,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 52985ms
+End Time(in millisecond): 57690ms
+Position: Bottom
+Plain Text: HAZLO AHORA.
+Formatted Text: 
+Text: HAZLO AHORA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 53920ms
+End Time(in millisecond): 58825ms
+Position: Bottom
+Plain Text: >> ¿DE QUÉ HABLAS? ESTÁS LOCO.
+Formatted Text: 
+Text: >> ¿DE QUÉ HABLAS? ESTÁS LOCO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 55355ms
+End Time(in millisecond): 59726ms
+Position: Bottom
+Plain Text: VÁMONOS.
+Formatted Text: 
+Text: VÁMONOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 57757ms
+End Time(in millisecond): 60627ms
+Position: Bottom
+Plain Text: >> UNO DE USTEDES TRES
+Formatted Text: 
+Text: >> UNO DE USTEDES TRES
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 58892ms
+End Time(in millisecond): 62729ms
+Position: Bottom
+Plain Text: ES MI HIJO.
+Formatted Text: 
+Text: ES MI HIJO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 59793ms
+End Time(in millisecond): 64998ms
+Position: Bottom
+Plain Text: EDUARDO: ¿QUÉ?
+Formatted Text: 
+Text: EDUARDO: ¿QUÉ?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 60693ms
+End Time(in millisecond): 66733ms
+Position: Bottom
+Plain Text: >> UNO DE USTEDES TRES ES EL
+Formatted Text: 
+Text: >> UNO DE USTEDES TRES ES EL
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 62796ms
+End Time(in millisecond): 68835ms
+Position: Bottom
+Plain Text: HIJO QUE VALENTINA Y YO TUVIMOS,
+Formatted Text: 
+Text: HIJO QUE VALENTINA Y YO TUVIMOS,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 65065ms
+End Time(in millisecond): 71604ms
+Position: Bottom
+Plain Text: Y QUE FUE ROBADO POR RAQUEL.
+Formatted Text: 
+Text: Y QUE FUE ROBADO POR RAQUEL.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 66800ms
+End Time(in millisecond): 74207ms
+Position: Bottom
+Plain Text: >>¿SOY YO, VERDAD?
+Formatted Text: 
+Text: >>¿SOY YO, VERDAD?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 68902ms
+End Time(in millisecond): 76076ms
+Position: Bottom
+Plain Text: >>¿DE QUÉ HABLAS?
+Formatted Text: 
+Text: >>¿DE QUÉ HABLAS?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 71671ms
+End Time(in millisecond): 76076ms
+Position: Bottom
+Plain Text: >>¿SOY YO EL... EL... EL HIJO DE
+Formatted Text: 
+Text: >>¿SOY YO EL... EL... EL HIJO DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 74274ms
+End Time(in millisecond): 76076ms
+Position: Bottom
+Plain Text: ADRIANO FERRER?
+Formatted Text: 
+Text: ADRIANO FERRER?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 78210ms
+End Time(in millisecond): 80280ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 81214ms
+End Time(in millisecond): 87420ms
+Position: Bottom
+Plain Text: >>SIENTO LÁSTIMA POR TI. ERES 
+Formatted Text: 
+Text: >>SIENTO LÁSTIMA POR TI. ERES 
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 84184ms
+End Time(in millisecond): 89022ms
+Position: Bottom
+Plain Text: MÁS ESTÚPIDO DE LO QUE PENSABA.
+Formatted Text: 
+Text: MÁS ESTÚPIDO DE LO QUE PENSABA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 86352ms
+End Time(in millisecond): 91491ms
+Position: Bottom
+Plain Text: >> INSÚLTAME TODO LO QUE
+Formatted Text: 
+Text: >> INSÚLTAME TODO LO QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 87487ms
+End Time(in millisecond): 92992ms
+Position: Bottom
+Plain Text: QUIERAS. ME HE PASADO TODA LA
+Formatted Text: 
+Text: QUIERAS. ME HE PASADO TODA LA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 89089ms
+End Time(in millisecond): 94727ms
+Position: Bottom
+Plain Text: VIDA ESCUCHANDO TUS INSULTOS.
+Formatted Text: 
+Text: VIDA ESCUCHANDO TUS INSULTOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 91557ms
+End Time(in millisecond): 95829ms
+Position: Bottom
+Plain Text: ¿POR QUÉ?
+Formatted Text: 
+Text: ¿POR QUÉ?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 93059ms
+End Time(in millisecond): 98098ms
+Position: Bottom
+Plain Text: ¿PORQUE NO SOY TU HIJO?
+Formatted Text: 
+Text: ¿PORQUE NO SOY TU HIJO?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 94794ms
+End Time(in millisecond): 100266ms
+Position: Bottom
+Plain Text: ¿PORQUE SOY EL HIJO DE TU
+Formatted Text: 
+Text: ¿PORQUE SOY EL HIJO DE TU
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 95895ms
+End Time(in millisecond): 102035ms
+Position: Bottom
+Plain Text: HERMANA Y DE ADRIANO FERRER?
+Formatted Text: 
+Text: HERMANA Y DE ADRIANO FERRER?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 98164ms
+End Time(in millisecond): 103970ms
+Position: Bottom
+Plain Text: >>¡NO! NO, NINGUNO DE USTEDES
+Formatted Text: 
+Text: >>¡NO! NO, NINGUNO DE USTEDES
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 100333ms
+End Time(in millisecond): 105338ms
+Position: Bottom
+Plain Text: LO ES.
+Formatted Text: 
+Text: LO ES.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 102102ms
+End Time(in millisecond): 106706ms
+Position: Bottom
+Plain Text: >>¿ESTÁS SEGURA? ¿NO SERÁ QUE
+Formatted Text: 
+Text: >>¿ESTÁS SEGURA? ¿NO SERÁ QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 104037ms
+End Time(in millisecond): 107907ms
+Position: Bottom
+Plain Text: ESE MALTRATO HA SIDO PORQUE
+Formatted Text: 
+Text: ESE MALTRATO HA SIDO PORQUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 105438ms
+End Time(in millisecond): 109175ms
+Position: Bottom
+Plain Text: ¡CADA DÍA TE RECUERDO ESA
+Formatted Text: 
+Text: ¡CADA DÍA TE RECUERDO ESA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 106773ms
+End Time(in millisecond): 110877ms
+Position: Bottom
+Plain Text: HISTORIA DE AMOR QUE ELLOS
+Formatted Text: 
+Text: HISTORIA DE AMOR QUE ELLOS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 107974ms
+End Time(in millisecond): 112812ms
+Position: Bottom
+Plain Text: TUVIERON Y QUE TÚ NO PUDISTE
+Formatted Text: 
+Text: TUVIERON Y QUE TÚ NO PUDISTE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 109241ms
+End Time(in millisecond): 115915ms
+Position: Bottom
+Plain Text: TENER!?
+Formatted Text: 
+Text: TENER!?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 110944ms
+End Time(in millisecond): 119819ms
+Position: Bottom
+Plain Text: >> NO. NO, YO FUI DURA CONTIGO
+Formatted Text: 
+Text: >> NO. NO, YO FUI DURA CONTIGO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 112879ms
+End Time(in millisecond): 121821ms
+Position: Bottom
+Plain Text: PORQUE TE AMABA, PORQUE QUERÍA 
+Formatted Text: 
+Text: PORQUE TE AMABA, PORQUE QUERÍA 
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 115982ms
+End Time(in millisecond): 122755ms
+Position: Bottom
+Plain Text: QUE MEJORARAS. TE JURO QUE NO
+Formatted Text: 
+Text: QUE MEJORARAS. TE JURO QUE NO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 119886ms
+End Time(in millisecond): 124190ms
+Position: Bottom
+Plain Text: FUE FALTA DE AMOR.
+Formatted Text: 
+Text: FUE FALTA DE AMOR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 121888ms
+End Time(in millisecond): 126159ms
+Position: Bottom
+Plain Text: >>¡YA BASTA, MAMÁ! ¡NO QUIERO
+Formatted Text: 
+Text: >>¡YA BASTA, MAMÁ! ¡NO QUIERO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 122822ms
+End Time(in millisecond): 127727ms
+Position: Bottom
+Plain Text: MÁS EXCUSAS! ¡QUIERO SABER
+Formatted Text: 
+Text: MÁS EXCUSAS! ¡QUIERO SABER
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 124257ms
+End Time(in millisecond): 128728ms
+Position: Bottom
+Plain Text: LA VERDAD!
+Formatted Text: 
+Text: LA VERDAD!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 126259ms
+End Time(in millisecond): 130063ms
+Position: Bottom
+Plain Text: ¡POR ESO ME DESPRECIASTE
+Formatted Text: 
+Text: ¡POR ESO ME DESPRECIASTE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 127793ms
+End Time(in millisecond): 131764ms
+Position: Bottom
+Plain Text: TODA LA VIDA! ¡¿VERDAD?!
+Formatted Text: 
+Text: TODA LA VIDA! ¡¿VERDAD?!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 128795ms
+End Time(in millisecond): 133566ms
+Position: Bottom
+Plain Text: >>¡NO GRITES, NO GRITES! ¡VAS A
+Formatted Text: 
+Text: >>¡NO GRITES, NO GRITES! ¡VAS A
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 130130ms
+End Time(in millisecond): 135468ms
+Position: Bottom
+Plain Text: DESPERTAR A TODO EL MUNDO!
+Formatted Text: 
+Text: DESPERTAR A TODO EL MUNDO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 131831ms
+End Time(in millisecond): 138905ms
+Position: Bottom
+Plain Text: >> AHORA LO ENTIENDO. SOY EL
+Formatted Text: 
+Text: >> AHORA LO ENTIENDO. SOY EL
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 133633ms
+End Time(in millisecond): 139906ms
+Position: Bottom
+Plain Text: HIJO DE VALENTINA; ¡DE LA
+Formatted Text: 
+Text: HIJO DE VALENTINA; ¡DE LA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 135535ms
+End Time(in millisecond): 141774ms
+Position: Bottom
+Plain Text: HERMANA QUE SIEMPRE ODIASTE!
+Formatted Text: 
+Text: HERMANA QUE SIEMPRE ODIASTE!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 138972ms
+End Time(in millisecond): 142942ms
+Position: Bottom
+Plain Text: AHORA ENTIENDO PERFECTAMENTE.
+Formatted Text: 
+Text: AHORA ENTIENDO PERFECTAMENTE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 140006ms
+End Time(in millisecond): 144544ms
+Position: Bottom
+Plain Text: ¡TODO ENCAJA PERFECTAMENTE,
+Formatted Text: 
+Text: ¡TODO ENCAJA PERFECTAMENTE,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 141840ms
+End Time(in millisecond): 145311ms
+Position: Bottom
+Plain Text: MAMÁ! 
+Formatted Text: 
+Text: MAMÁ! 
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 143009ms
+End Time(in millisecond): 145879ms
+Position: Bottom
+Plain Text: >>¡PERO, ¿QUÉ PASA AQUÍ?!
+Formatted Text: 
+Text: >>¡PERO, ¿QUÉ PASA AQUÍ?!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 144611ms
+End Time(in millisecond): 147113ms
+Position: Bottom
+Plain Text: EDUARDO: VAN A DESPERTAR A
+Formatted Text: 
+Text: EDUARDO: VAN A DESPERTAR A
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 145377ms
+End Time(in millisecond): 148848ms
+Position: Bottom
+Plain Text: SOFÍA.
+Formatted Text: 
+Text: SOFÍA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 145945ms
+End Time(in millisecond): 150283ms
+Position: Bottom
+Plain Text: >>¡HABLA YA, MAMÁ! ¡HABLA
+Formatted Text: 
+Text: >>¡HABLA YA, MAMÁ! ¡HABLA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 147180ms
+End Time(in millisecond): 152352ms
+Position: Bottom
+Plain Text: ENFRENTE DE MIS HERMANOS!
+Formatted Text: 
+Text: ENFRENTE DE MIS HERMANOS!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 148948ms
+End Time(in millisecond): 153453ms
+Position: Bottom
+Plain Text: ¡¿SOY EL HIJO DE ADRIANO
+Formatted Text: 
+Text: ¡¿SOY EL HIJO DE ADRIANO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 150349ms
+End Time(in millisecond): 154654ms
+Position: Bottom
+Plain Text: FERRER?!
+Formatted Text: 
+Text: FERRER?!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 152418ms
+End Time(in millisecond): 157190ms
+Position: Bottom
+Plain Text: >>¡OJALÁ LO FUERAS, PARA QUE
+Formatted Text: 
+Text: >>¡OJALÁ LO FUERAS, PARA QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 153520ms
+End Time(in millisecond): 159159ms
+Position: Bottom
+Plain Text: TE MARCHARAS LEJOS DE AQUÍ
+Formatted Text: 
+Text: TE MARCHARAS LEJOS DE AQUÍ
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 154720ms
+End Time(in millisecond): 160727ms
+Position: Bottom
+Plain Text: Y ME DEJARAS EN PAZ!
+Formatted Text: 
+Text: Y ME DEJARAS EN PAZ!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 157257ms
+End Time(in millisecond): 161628ms
+Position: Bottom
+Plain Text: ERES UNA VERGÜENZA, CRISTÓBAL.
+Formatted Text: 
+Text: ERES UNA VERGÜENZA, CRISTÓBAL.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 159225ms
+End Time(in millisecond): 164197ms
+Position: Bottom
+Plain Text: EDUARDO: MAMÁ, POR FAVOR.
+Formatted Text: 
+Text: EDUARDO: MAMÁ, POR FAVOR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 160793ms
+End Time(in millisecond): 166266ms
+Position: Bottom
+Plain Text: >>¡NINGUNO DE USTEDES ES HIJO
+Formatted Text: 
+Text: >>¡NINGUNO DE USTEDES ES HIJO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 161694ms
+End Time(in millisecond): 167300ms
+Position: Bottom
+Plain Text: DE ESE INFELIZ! ¡YA! ¡YA NO
+Formatted Text: 
+Text: DE ESE INFELIZ! ¡YA! ¡YA NO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 164264ms
+End Time(in millisecond): 169435ms
+Position: Bottom
+Plain Text: QUIERO SEGUIR CON ESTO!
+Formatted Text: 
+Text: QUIERO SEGUIR CON ESTO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 166366ms
+End Time(in millisecond): 170203ms
+Position: Bottom
+Plain Text: ¡VAYAN A HACERSE UN EXAMEN
+Formatted Text: 
+Text: ¡VAYAN A HACERSE UN EXAMEN
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 167367ms
+End Time(in millisecond): 172372ms
+Position: Bottom
+Plain Text: DE ADN, DE LO QUE QUIERAN!
+Formatted Text: 
+Text: DE ADN, DE LO QUE QUIERAN!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 169536ms
+End Time(in millisecond): 173373ms
+Position: Bottom
+Plain Text: ¡PERO A MÍ, NO ME SIGAN
+Formatted Text: 
+Text: ¡PERO A MÍ, NO ME SIGAN
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 170269ms
+End Time(in millisecond): 175208ms
+Position: Bottom
+Plain Text: CUESTIONANDO!
+Formatted Text: 
+Text: CUESTIONANDO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 172438ms
+End Time(in millisecond): 175208ms
+Position: Bottom
+Plain Text: >> VAMOS.
+Formatted Text: 
+Text: >> VAMOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 173439ms
+End Time(in millisecond): 175208ms
+Position: Bottom
+Plain Text: JORGE: YA, VENTE.
+Formatted Text: 
+Text: JORGE: YA, VENTE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 179345ms
+End Time(in millisecond): 185451ms
+Position: Bottom
+Plain Text: [SOLLOZOS]
+Formatted Text: 
+Text: [SOLLOZOS]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 181881ms
+End Time(in millisecond): 185451ms
+Position: Bottom
+Plain Text: >>¡MALDITO ADRIANO FERRER!
+Formatted Text: 
+Text: >>¡MALDITO ADRIANO FERRER!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 183816ms
+End Time(in millisecond): 185451ms
+Position: Bottom
+Plain Text: ¡MALDITO!
+Formatted Text: 
+Text: ¡MALDITO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 189923ms
+End Time(in millisecond): 194060ms
+Position: Bottom
+Plain Text: >>ESTE LUGAR ES MUY BONITO,
+Formatted Text: 
+Text: >>ESTE LUGAR ES MUY BONITO,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 190656ms
+End Time(in millisecond): 197197ms
+Position: Bottom
+Plain Text: BLANCA.
+Formatted Text: 
+Text: BLANCA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 192325ms
+End Time(in millisecond): 198331ms
+Position: Bottom
+Plain Text: >> SÍ, ESTÁ PRECIOSO. YO CREO
+Formatted Text: 
+Text: >> SÍ, ESTÁ PRECIOSO. YO CREO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 194127ms
+End Time(in millisecond): 201100ms
+Position: Bottom
+Plain Text: QUE A PAPÁ LE HUBIERA ENCANTADO.
+Formatted Text: 
+Text: QUE A PAPÁ LE HUBIERA ENCANTADO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 197263ms
+End Time(in millisecond): 203236ms
+Position: Bottom
+Plain Text: ¿LO EXTRAÑAS MUCHO?
+Formatted Text: 
+Text: ¿LO EXTRAÑAS MUCHO?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 198398ms
+End Time(in millisecond): 205638ms
+Position: Bottom
+Plain Text: >> SÍ, SIEMPRE PIENSO EN ÉL.
+Formatted Text: 
+Text: >> SÍ, SIEMPRE PIENSO EN ÉL.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 201166ms
+End Time(in millisecond): 206773ms
+Position: Bottom
+Plain Text: >>¿SABEN? YO NUNCA DEJÉ DE
+Formatted Text: 
+Text: >>¿SABEN? YO NUNCA DEJÉ DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 203302ms
+End Time(in millisecond): 209576ms
+Position: Bottom
+Plain Text: CUIDARLOS.
+Formatted Text: 
+Text: CUIDARLOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 205704ms
+End Time(in millisecond): 211110ms
+Position: Bottom
+Plain Text: >> BLANCA, ¿TÚ SABES POR QUÉ
+Formatted Text: 
+Text: >> BLANCA, ¿TÚ SABES POR QUÉ
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 206839ms
+End Time(in millisecond): 212445ms
+Position: Bottom
+Plain Text: LA SRA. RAQUEL MATÓ A PAPÁ?
+Formatted Text: 
+Text: LA SRA. RAQUEL MATÓ A PAPÁ?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 209642ms
+End Time(in millisecond): 213246ms
+Position: Bottom
+Plain Text: >>¡AH! SIMONA, NO ES EL MOMENTO.
+Formatted Text: 
+Text: >>¡AH! SIMONA, NO ES EL MOMENTO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 211177ms
+End Time(in millisecond): 216049ms
+Position: Bottom
+Plain Text: POR FAVOR.
+Formatted Text: 
+Text: POR FAVOR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 212512ms
+End Time(in millisecond): 216916ms
+Position: Bottom
+Plain Text: >> PERO ¿POR QUÉ? YA TODO EL
+Formatted Text: 
+Text: >> PERO ¿POR QUÉ? YA TODO EL
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 213313ms
+End Time(in millisecond): 218751ms
+Position: Bottom
+Plain Text: MUNDO LO SABE, Y TAMBIÉN HUGO.
+Formatted Text: 
+Text: MUNDO LO SABE, Y TAMBIÉN HUGO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 216115ms
+End Time(in millisecond): 219385ms
+Position: Bottom
+Plain Text: >> PERO, ¿POR QUÉ NO LA METES
+Formatted Text: 
+Text: >> PERO, ¿POR QUÉ NO LA METES
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 216983ms
+End Time(in millisecond): 220286ms
+Position: Bottom
+Plain Text: EN LA CÁRCEL, BLANCA?
+Formatted Text: 
+Text: EN LA CÁRCEL, BLANCA?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 218818ms
+End Time(in millisecond): 223289ms
+Position: Bottom
+Plain Text: >>¿Y POR QUÉ MEJOR NO NOS
+Formatted Text: 
+Text: >>¿Y POR QUÉ MEJOR NO NOS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 219452ms
+End Time(in millisecond): 224190ms
+Position: Bottom
+Plain Text: OLVIDAMOS DE TODO Y TRATAMOS
+Formatted Text: 
+Text: OLVIDAMOS DE TODO Y TRATAMOS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 220353ms
+End Time(in millisecond): 226092ms
+Position: Bottom
+Plain Text: DE SER FELICES AQUÍ? ¿HUM?
+Formatted Text: 
+Text: DE SER FELICES AQUÍ? ¿HUM?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 223356ms
+End Time(in millisecond): 227627ms
+Position: Bottom
+Plain Text: >> PERO YA NUNCA NOS VAMOS A
+Formatted Text: 
+Text: >> PERO YA NUNCA NOS VAMOS A
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 224257ms
+End Time(in millisecond): 229596ms
+Position: Bottom
+Plain Text: VOLVER A SEPARAR, ¿VERDAD?
+Formatted Text: 
+Text: VOLVER A SEPARAR, ¿VERDAD?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 226159ms
+End Time(in millisecond): 230797ms
+Position: Bottom
+Plain Text: >> NO, YA NO. [BESO]
+Formatted Text: 
+Text: >> NO, YA NO. [BESO]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 227694ms
+End Time(in millisecond): 232899ms
+Position: Bottom
+Plain Text: >>¿SABES? SALVADOR ME CAE MUY
+Formatted Text: 
+Text: >>¿SABES? SALVADOR ME CAE MUY
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 229662ms
+End Time(in millisecond): 234934ms
+Position: Bottom
+Plain Text: BIEN, Y ADEMÁS SE VE QUE TE
+Formatted Text: 
+Text: BIEN, Y ADEMÁS SE VE QUE TE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 230863ms
+End Time(in millisecond): 234934ms
+Position: Bottom
+Plain Text: QUIERE MUCHÍSIMO. ME ENCANTARÍA
+Formatted Text: 
+Text: QUIERE MUCHÍSIMO. ME ENCANTARÍA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 232966ms
+End Time(in millisecond): 234934ms
+Position: Bottom
+Plain Text: QUE FUERAS SU NOVIA.
+Formatted Text: 
+Text: QUE FUERAS SU NOVIA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 235801ms
+End Time(in millisecond): 244811ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 247880ms
+End Time(in millisecond): 253519ms
+Position: Bottom
+Plain Text: >> KARINA...
+Formatted Text: 
+Text: >> KARINA...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 249415ms
+End Time(in millisecond): 255321ms
+Position: Bottom
+Plain Text: >>¿QUÉ PASA, MI AMOR?
+Formatted Text: 
+Text: >>¿QUÉ PASA, MI AMOR?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 251417ms
+End Time(in millisecond): 257323ms
+Position: Bottom
+Plain Text: ¿QUÉ TIENES?
+Formatted Text: 
+Text: ¿QUÉ TIENES?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 253586ms
+End Time(in millisecond): 258124ms
+Position: Bottom
+Plain Text: >> ME ENTERÉ DE ALGO TERRIBLE.
+Formatted Text: 
+Text: >> ME ENTERÉ DE ALGO TERRIBLE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 255388ms
+End Time(in millisecond): 261361ms
+Position: Bottom
+Plain Text: >>¿QUÉ PASÓ? CUÉNTAME.
+Formatted Text: 
+Text: >>¿QUÉ PASÓ? CUÉNTAME.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 257390ms
+End Time(in millisecond): 263630ms
+Position: Bottom
+Plain Text: >> TAL VEZ ADRIANO FERRER ES MI
+Formatted Text: 
+Text: >> TAL VEZ ADRIANO FERRER ES MI
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 258191ms
+End Time(in millisecond): 263630ms
+Position: Bottom
+Plain Text: PADRE. PUEDE SER QUE YO SEA
+Formatted Text: 
+Text: PADRE. PUEDE SER QUE YO SEA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 261427ms
+End Time(in millisecond): 263630ms
+Position: Bottom
+Plain Text: HIJO DE ÉL Y DE VALENTINA.
+Formatted Text: 
+Text: HIJO DE ÉL Y DE VALENTINA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 264129ms
+End Time(in millisecond): 274440ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 277176ms
+End Time(in millisecond): 279979ms
+Position: Bottom
+Plain Text: [TOQUES EN LA PUERTA]
+Formatted Text: 
+Text: [TOQUES EN LA PUERTA]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 278077ms
+End Time(in millisecond): 279979ms
+Position: Bottom
+Plain Text: [RUIDO AL ABRIR]
+Formatted Text: 
+Text: [RUIDO AL ABRIR]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 280813ms
+End Time(in millisecond): 287954ms
+Position: Bottom
+Plain Text: >> HOLA, TÍA. YO SOY CRISTÓBAL.
+Formatted Text: 
+Text: >> HOLA, TÍA. YO SOY CRISTÓBAL.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 284750ms
+End Time(in millisecond): 291257ms
+Position: Bottom
+Plain Text: SÉ QUE DE TODOS MIS HERMANOS
+Formatted Text: 
+Text: SÉ QUE DE TODOS MIS HERMANOS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 286653ms
+End Time(in millisecond): 293593ms
+Position: Bottom
+Plain Text: SOY EL QUE MENOS CONTACTO TIENE
+Formatted Text: 
+Text: SOY EL QUE MENOS CONTACTO TIENE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 288021ms
+End Time(in millisecond): 295695ms
+Position: Bottom
+Plain Text: CONTIGO. PERO QUIZÁ SE DEBE A
+Formatted Text: 
+Text: CONTIGO. PERO QUIZÁ SE DEBE A
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 291324ms
+End Time(in millisecond): 295695ms
+Position: Bottom
+Plain Text: QUE SOY EL MENOS SOCIABLE. NO ÉE
+Formatted Text: 
+Text: QUE SOY EL MENOS SOCIABLE. NO ÉE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 293660ms
+End Time(in millisecond): 295695ms
+Position: Bottom
+Plain Text: ACERCARME A LA GENTE.
+Formatted Text: 
+Text: ACERCARME A LA GENTE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 299966ms
+End Time(in millisecond): 306806ms
+Position: Bottom
+Plain Text: NO SÉ SI TÚ ME PUEDES ESCUCHAR.
+Formatted Text: 
+Text: NO SÉ SI TÚ ME PUEDES ESCUCHAR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 303168ms
+End Time(in millisecond): 309542ms
+Position: Bottom
+Plain Text: PERO QUIERO QUE SEPAS QUE...
+Formatted Text: 
+Text: PERO QUIERO QUE SEPAS QUE...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 305905ms
+End Time(in millisecond): 311711ms
+Position: Bottom
+Plain Text: ME ENTERÉ QUE A LO MEJOR SOY
+Formatted Text: 
+Text: ME ENTERÉ QUE A LO MEJOR SOY
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 306872ms
+End Time(in millisecond): 313813ms
+Position: Bottom
+Plain Text: TU HIJO.
+Formatted Text: 
+Text: TU HIJO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 309608ms
+End Time(in millisecond): 314881ms
+Position: Bottom
+Plain Text: TE VEO LUCHAR DÍA A DÍA,
+Formatted Text: 
+Text: TE VEO LUCHAR DÍA A DÍA,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 311778ms
+End Time(in millisecond): 315915ms
+Position: Bottom
+Plain Text: SOPORTANDO ESTA ENFERMEDAD,
+Formatted Text: 
+Text: SOPORTANDO ESTA ENFERMEDAD,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 313879ms
+End Time(in millisecond): 318584ms
+Position: Bottom
+Plain Text: Y QUIERO DECIRTE QUE
+Formatted Text: 
+Text: Y QUIERO DECIRTE QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 314947ms
+End Time(in millisecond): 319786ms
+Position: Bottom
+Plain Text: ME LLENARÍA DE ORGULLO
+Formatted Text: 
+Text: ME LLENARÍA DE ORGULLO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 315982ms
+End Time(in millisecond): 323056ms
+Position: Bottom
+Plain Text: SABER QUE ERES MI MAMÁ.
+Formatted Text: 
+Text: SABER QUE ERES MI MAMÁ.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 318651ms
+End Time(in millisecond): 324123ms
+Position: Bottom
+Plain Text: AHORA PIENSO QUE SI NO
+Formatted Text: 
+Text: AHORA PIENSO QUE SI NO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 319852ms
+End Time(in millisecond): 326025ms
+Position: Bottom
+Plain Text: HUBIERA PASADO LO QUE PASÓ...
+Formatted Text: 
+Text: HUBIERA PASADO LO QUE PASÓ...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 323122ms
+End Time(in millisecond): 326025ms
+Position: Bottom
+Plain Text: NUESTRAS VIDAS SERÍAN
+Formatted Text: 
+Text: NUESTRAS VIDAS SERÍAN
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 324190ms
+End Time(in millisecond): 326025ms
+Position: Bottom
+Plain Text: DIFERENTES.
+Formatted Text: 
+Text: DIFERENTES.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 326959ms
+End Time(in millisecond): 331097ms
+Position: Bottom
+Plain Text: [♪♪♪♪]
+Formatted Text: 
+Text: [♪♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 337170ms
+End Time(in millisecond): 343109ms
+Position: Bottom
+Plain Text: [RUIDO AL ABRIR] >>EDUARDO...
+Formatted Text: 
+Text: [RUIDO AL ABRIR] >>EDUARDO...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 340139ms
+End Time(in millisecond): 344911ms
+Position: Bottom
+Plain Text: POR FAVOR, ADELANTE. ME DA
+Formatted Text: 
+Text: POR FAVOR, ADELANTE. ME DA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 341274ms
+End Time(in millisecond): 344911ms
+Position: Bottom
+Plain Text: MUCHO GUSTO QUE VENGAS.
+Formatted Text: 
+Text: MUCHO GUSTO QUE VENGAS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 343175ms
+End Time(in millisecond): 344911ms
+Position: Bottom
+Plain Text: [RUIDO AL CERRAR]
+Formatted Text: 
+Text: [RUIDO AL CERRAR]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 345144ms
+End Time(in millisecond): 350149ms
+Position: Bottom
+Plain Text: PENSÉ QUE NINGUNO DE USTEDES
+Formatted Text: 
+Text: PENSÉ QUE NINGUNO DE USTEDES
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 346779ms
+End Time(in millisecond): 352418ms
+Position: Bottom
+Plain Text: QUERÍA VOLVER A VERME. SIÉNTATE.
+Formatted Text: 
+Text: QUERÍA VOLVER A VERME. SIÉNTATE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 348748ms
+End Time(in millisecond): 354420ms
+Position: Bottom
+Plain Text: >> GRACIAS. ESTAMOS MUY
+Formatted Text: 
+Text: >> GRACIAS. ESTAMOS MUY
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 350216ms
+End Time(in millisecond): 355588ms
+Position: Bottom
+Plain Text: AFECTADOS, ADRIANO.
+Formatted Text: 
+Text: AFECTADOS, ADRIANO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 352485ms
+End Time(in millisecond): 357123ms
+Position: Bottom
+Plain Text: NO LO TOMES A MAL, PERO...
+Formatted Text: 
+Text: NO LO TOMES A MAL, PERO...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 354487ms
+End Time(in millisecond): 358324ms
+Position: Bottom
+Plain Text: ESPERAMOS QUE TODO ESTO
+Formatted Text: 
+Text: ESPERAMOS QUE TODO ESTO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 355655ms
+End Time(in millisecond): 360059ms
+Position: Bottom
+Plain Text: SEA UN MALENTENDIDO.
+Formatted Text: 
+Text: SEA UN MALENTENDIDO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 357190ms
+End Time(in millisecond): 361494ms
+Position: Bottom
+Plain Text: >>NO, PARA MÍ TODO ESTÁ
+Formatted Text: 
+Text: >>NO, PARA MÍ TODO ESTÁ
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 358391ms
+End Time(in millisecond): 363930ms
+Position: Bottom
+Plain Text: MUY CLARO.
+Formatted Text: 
+Text: MUY CLARO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 360126ms
+End Time(in millisecond): 365031ms
+Position: Bottom
+Plain Text: INCLUSO PUEDO ENTENDER A
+Formatted Text: 
+Text: INCLUSO PUEDO ENTENDER A
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 361560ms
+End Time(in millisecond): 366666ms
+Position: Bottom
+Plain Text: RAQUEL. ELLA QUIERE A MI HIJO
+Formatted Text: 
+Text: RAQUEL. ELLA QUIERE A MI HIJO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 363996ms
+End Time(in millisecond): 367667ms
+Position: Bottom
+Plain Text: COMO A LOS OTROS, POR ESO
+Formatted Text: 
+Text: COMO A LOS OTROS, POR ESO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 365097ms
+End Time(in millisecond): 368935ms
+Position: Bottom
+Plain Text: OCULTÓ LA VERDAD.
+Formatted Text: 
+Text: OCULTÓ LA VERDAD.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 366733ms
+End Time(in millisecond): 369902ms
+Position: Bottom
+Plain Text: >> CRISTÓBAL NO ESTÁ DE
+Formatted Text: 
+Text: >> CRISTÓBAL NO ESTÁ DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 367734ms
+End Time(in millisecond): 371604ms
+Position: Bottom
+Plain Text: ACUERDO CON ESO. ÉL SIENTE
+Formatted Text: 
+Text: ACUERDO CON ESO. ÉL SIENTE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 369001ms
+End Time(in millisecond): 373306ms
+Position: Bottom
+Plain Text: QUE MI MADRE NUNCA LO AMÓ
+Formatted Text: 
+Text: QUE MI MADRE NUNCA LO AMÓ
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 369969ms
+End Time(in millisecond): 374707ms
+Position: Bottom
+Plain Text: COMO A JORGE Y A MÍ.
+Formatted Text: 
+Text: COMO A JORGE Y A MÍ.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 371671ms
+End Time(in millisecond): 375875ms
+Position: Bottom
+Plain Text: >> CRISTÓBAL... 
+Formatted Text: 
+Text: >> CRISTÓBAL... 
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 373373ms
+End Time(in millisecond): 377243ms
+Position: Bottom
+Plain Text: >>MI MADRE SIEMPRE SE HA PORTADO
+Formatted Text: 
+Text: >>MI MADRE SIEMPRE SE HA PORTADO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 374774ms
+End Time(in millisecond): 378144ms
+Position: Bottom
+Plain Text: DE UNA MANERA MÁS DURA CON ÉL
+Formatted Text: 
+Text: DE UNA MANERA MÁS DURA CON ÉL
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 375942ms
+End Time(in millisecond): 379946ms
+Position: Bottom
+Plain Text: QUE CON NOSOTROS.
+Formatted Text: 
+Text: QUE CON NOSOTROS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 377310ms
+End Time(in millisecond): 381814ms
+Position: Bottom
+Plain Text: >> BLANCA TENÍA ESA MISMA
+Formatted Text: 
+Text: >> BLANCA TENÍA ESA MISMA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 378211ms
+End Time(in millisecond): 385752ms
+Position: Bottom
+Plain Text: TEORÍA.
+Formatted Text: 
+Text: TEORÍA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 380012ms
+End Time(in millisecond): 386986ms
+Position: Bottom
+Plain Text: TAL VEZ ESE ODIO HACIA ÉL SE
+Formatted Text: 
+Text: TAL VEZ ESE ODIO HACIA ÉL SE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 381881ms
+End Time(in millisecond): 388888ms
+Position: Bottom
+Plain Text: DEBA... A QUE LE RECUERDA
+Formatted Text: 
+Text: DEBA... A QUE LE RECUERDA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 385818ms
+End Time(in millisecond): 390623ms
+Position: Bottom
+Plain Text: EL AMOR QUE NOS TENÍAMOS
+Formatted Text: 
+Text: EL AMOR QUE NOS TENÍAMOS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 387053ms
+End Time(in millisecond): 392258ms
+Position: Bottom
+Plain Text: VALENTINA Y YO..
+Formatted Text: 
+Text: VALENTINA Y YO..
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 388955ms
+End Time(in millisecond): 394127ms
+Position: Bottom
+Plain Text: >>BLANCA... ESO TE LO DECÍA
+Formatted Text: 
+Text: >>BLANCA... ESO TE LO DECÍA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 390690ms
+End Time(in millisecond): 395294ms
+Position: Bottom
+Plain Text: MIENTRAS TÚ Y ELLA ME
+Formatted Text: 
+Text: MIENTRAS TÚ Y ELLA ME
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 392325ms
+End Time(in millisecond): 397063ms
+Position: Bottom
+Plain Text: ENGAÑABAN A MÍ Y A MI FAMILIA
+Formatted Text: 
+Text: ENGAÑABAN A MÍ Y A MI FAMILIA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 394193ms
+End Time(in millisecond): 399565ms
+Position: Bottom
+Plain Text: CON "VICTORIA SAN MARINO".
+Formatted Text: 
+Text: CON "VICTORIA SAN MARINO".
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 395361ms
+End Time(in millisecond): 401067ms
+Position: Bottom
+Plain Text: >> POR FAVOR, EDUARDO, NO
+Formatted Text: 
+Text: >> POR FAVOR, EDUARDO, NO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 397130ms
+End Time(in millisecond): 402769ms
+Position: Bottom
+Plain Text: SEAS DURO CON NOSOTROS.
+Formatted Text: 
+Text: SEAS DURO CON NOSOTROS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 399632ms
+End Time(in millisecond): 404370ms
+Position: Bottom
+Plain Text: YA SABES MIS MOTIVOS.
+Formatted Text: 
+Text: YA SABES MIS MOTIVOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 401134ms
+End Time(in millisecond): 406205ms
+Position: Bottom
+Plain Text: TAL VEZ VALIÓ LA PENA.
+Formatted Text: 
+Text: TAL VEZ VALIÓ LA PENA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 402835ms
+End Time(in millisecond): 408875ms
+Position: Bottom
+Plain Text: >>¿DÓNDE ESTÁ, ADRIANO?
+Formatted Text: 
+Text: >>¿DÓNDE ESTÁ, ADRIANO?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 404437ms
+End Time(in millisecond): 410376ms
+Position: Bottom
+Plain Text: ¿ESTÁS SEGURO QUE ESTÁ BIEN?
+Formatted Text: 
+Text: ¿ESTÁS SEGURO QUE ESTÁ BIEN?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 406272ms
+End Time(in millisecond): 414213ms
+Position: Bottom
+Plain Text: >> BLANCA...
+Formatted Text: 
+Text: >> BLANCA...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 408941ms
+End Time(in millisecond): 415481ms
+Position: Bottom
+Plain Text: BLANCA ES UNA BUENA MUJER,
+Formatted Text: 
+Text: BLANCA ES UNA BUENA MUJER,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 410443ms
+End Time(in millisecond): 416983ms
+Position: Bottom
+Plain Text: EDUARDO. ES NOBLE... ES UNA DE
+Formatted Text: 
+Text: EDUARDO. ES NOBLE... ES UNA DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 414280ms
+End Time(in millisecond): 419585ms
+Position: Bottom
+Plain Text: LAS MEJORES PERSONAS QUE HE
+Formatted Text: 
+Text: LAS MEJORES PERSONAS QUE HE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 415548ms
+End Time(in millisecond): 421020ms
+Position: Bottom
+Plain Text: CONOCIDO EN MI VIDA, Y ESPERO
+Formatted Text: 
+Text: CONOCIDO EN MI VIDA, Y ESPERO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 417049ms
+End Time(in millisecond): 423289ms
+Position: Bottom
+Plain Text: QUE AHORA SEA FELIZ.
+Formatted Text: 
+Text: QUE AHORA SEA FELIZ.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 419652ms
+End Time(in millisecond): 425825ms
+Position: Bottom
+Plain Text: >>¿POR QUÉ SE FUE?
+Formatted Text: 
+Text: >>¿POR QUÉ SE FUE?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 421087ms
+End Time(in millisecond): 428261ms
+Position: Bottom
+Plain Text: >> YA TE DIJE QUE A VECES...
+Formatted Text: 
+Text: >> YA TE DIJE QUE A VECES...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 423356ms
+End Time(in millisecond): 429729ms
+Position: Bottom
+Plain Text: ES MEJOR NO PREGUNTAR.
+Formatted Text: 
+Text: ES MEJOR NO PREGUNTAR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 425892ms
+End Time(in millisecond): 431798ms
+Position: Bottom
+Plain Text: OLVÍDALA.
+Formatted Text: 
+Text: OLVÍDALA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 428327ms
+End Time(in millisecond): 431798ms
+Position: Bottom
+Plain Text: OLVÍDALA, PARA QUE TÚ Y ELLA
+Formatted Text: 
+Text: OLVÍDALA, PARA QUE TÚ Y ELLA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 429796ms
+End Time(in millisecond): 431798ms
+Position: Bottom
+Plain Text: PUEDAN REHACER SUS VIDAS.
+Formatted Text: 
+Text: PUEDAN REHACER SUS VIDAS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 432764ms
+End Time(in millisecond): 435735ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 437136ms
+End Time(in millisecond): 438704ms
+Position: Bottom
+Plain Text: [SUENA UN CELULAR]
+Formatted Text: 
+Text: [SUENA UN CELULAR]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 442375ms
+End Time(in millisecond): 445945ms
+Position: Bottom
+Plain Text: >>ES UN MENSAJE DE RAFAEL.
+Formatted Text: 
+Text: >>ES UN MENSAJE DE RAFAEL.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 444143ms
+End Time(in millisecond): 446712ms
+Position: Bottom
+Plain Text: QUIERE SABER DÓNDE Y CÓMO
+Formatted Text: 
+Text: QUIERE SABER DÓNDE Y CÓMO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 445110ms
+End Time(in millisecond): 447880ms
+Position: Bottom
+Plain Text: ESTAMOS.
+Formatted Text: 
+Text: ESTAMOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 446012ms
+End Time(in millisecond): 449182ms
+Position: Bottom
+Plain Text: BLANCA: ¡TE DIJE QUE NO
+Formatted Text: 
+Text: BLANCA: ¡TE DIJE QUE NO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 446779ms
+End Time(in millisecond): 450016ms
+Position: Bottom
+Plain Text: TRAJÉRAMOS TELÉFONO! ¿NO TE DAS
+Formatted Text: 
+Text: TRAJÉRAMOS TELÉFONO! ¿NO TE DAS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 447947ms
+End Time(in millisecond): 451184ms
+Position: Bottom
+Plain Text: CUENTA QUE NOS PUEDEN RASTREAR?
+Formatted Text: 
+Text: CUENTA QUE NOS PUEDEN RASTREAR?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 449248ms
+End Time(in millisecond): 453119ms
+Position: Bottom
+Plain Text: >> PERO, BLANCA...
+Formatted Text: 
+Text: >> PERO, BLANCA...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 450082ms
+End Time(in millisecond): 454020ms
+Position: Bottom
+Plain Text: >>¡ENTIÉNDELO, POR FAVOR! NADIE
+Formatted Text: 
+Text: >>¡ENTIÉNDELO, POR FAVOR! NADIE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 451250ms
+End Time(in millisecond): 455488ms
+Position: Bottom
+Plain Text: PUEDE SABER DÓNDE ESTAMOS.
+Formatted Text: 
+Text: PUEDE SABER DÓNDE ESTAMOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 453186ms
+End Time(in millisecond): 457323ms
+Position: Bottom
+Plain Text: [RUIDO AL TIRAR EL TELÉFONO]
+Formatted Text: 
+Text: [RUIDO AL TIRAR EL TELÉFONO]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 454086ms
+End Time(in millisecond): 458257ms
+Position: Bottom
+Plain Text: SIMONA: ¡OYE, ¿QUÉ TE PASA?!
+Formatted Text: 
+Text: SIMONA: ¡OYE, ¿QUÉ TE PASA?!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 455588ms
+End Time(in millisecond): 459192ms
+Position: Bottom
+Plain Text: ¡RAFAEL ES DE CONFIANZA!
+Formatted Text: 
+Text: ¡RAFAEL ES DE CONFIANZA!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 457390ms
+End Time(in millisecond): 460526ms
+Position: Bottom
+Plain Text: >> SI EN VERDAD APRECIAS A
+Formatted Text: 
+Text: >> SI EN VERDAD APRECIAS A
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 458324ms
+End Time(in millisecond): 462328ms
+Position: Bottom
+Plain Text: RAFAEL, NO SE TE OCURRA
+Formatted Text: 
+Text: RAFAEL, NO SE TE OCURRA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 459258ms
+End Time(in millisecond): 463496ms
+Position: Bottom
+Plain Text: CONTACTARLO. ¡NI A ÉL, NI
+Formatted Text: 
+Text: CONTACTARLO. ¡NI A ÉL, NI
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 460593ms
+End Time(in millisecond): 464397ms
+Position: Bottom
+Plain Text: A KARINA, NI A NADIE!
+Formatted Text: 
+Text: A KARINA, NI A NADIE!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 462395ms
+End Time(in millisecond): 465031ms
+Position: Bottom
+Plain Text: EL HECHO DE QUE ELLA SEPA
+Formatted Text: 
+Text: EL HECHO DE QUE ELLA SEPA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 463563ms
+End Time(in millisecond): 465965ms
+Position: Bottom
+Plain Text: DÓNDE ESTAMOS, NOS PUEDE
+Formatted Text: 
+Text: DÓNDE ESTAMOS, NOS PUEDE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 464463ms
+End Time(in millisecond): 467533ms
+Position: Bottom
+Plain Text: PONER EN PELIGRO.
+Formatted Text: 
+Text: PONER EN PELIGRO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 465097ms
+End Time(in millisecond): 468501ms
+Position: Bottom
+Plain Text: >>¿Y POR QUÉ SALVADOR SÍ PUEDE
+Formatted Text: 
+Text: >>¿Y POR QUÉ SALVADOR SÍ PUEDE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 466032ms
+End Time(in millisecond): 470603ms
+Position: Bottom
+Plain Text: USAR SU CELULAR Y YO NO?
+Formatted Text: 
+Text: USAR SU CELULAR Y YO NO?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 467600ms
+End Time(in millisecond): 470603ms
+Position: Bottom
+Plain Text: >> PORQUE ES DE EMERGENCIA; POR
+Formatted Text: 
+Text: >> PORQUE ES DE EMERGENCIA; POR
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 468568ms
+End Time(in millisecond): 470603ms
+Position: Bottom
+Plain Text: SI NECESITAMOS ALGO.
+Formatted Text: 
+Text: SI NECESITAMOS ALGO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 471437ms
+End Time(in millisecond): 476476ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 480146ms
+End Time(in millisecond): 485017ms
+Position: Bottom
+Plain Text: >> TRANQUILO, MI AMOR.
+Formatted Text: 
+Text: >> TRANQUILO, MI AMOR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 482248ms
+End Time(in millisecond): 486219ms
+Position: Bottom
+Plain Text: LO QUE ADRIANO LES DIJO,
+Formatted Text: 
+Text: LO QUE ADRIANO LES DIJO,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 483349ms
+End Time(in millisecond): 488187ms
+Position: Bottom
+Plain Text: NO SIGNIFICA NADA.
+Formatted Text: 
+Text: NO SIGNIFICA NADA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 485084ms
+End Time(in millisecond): 489555ms
+Position: Bottom
+Plain Text: >> ES QUE NO LO PODRÍA SOPORTAR,
+Formatted Text: 
+Text: >> ES QUE NO LO PODRÍA SOPORTAR,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 486285ms
+End Time(in millisecond): 492024ms
+Position: Bottom
+Plain Text: KARINA. SI MI VIDA HA SIDO UNA
+Formatted Text: 
+Text: KARINA. SI MI VIDA HA SIDO UNA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 488254ms
+End Time(in millisecond): 493693ms
+Position: Bottom
+Plain Text: MENTIRA, ¡TE JURO QUE NO PUEDO
+Formatted Text: 
+Text: MENTIRA, ¡TE JURO QUE NO PUEDO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 489622ms
+End Time(in millisecond): 496262ms
+Position: Bottom
+Plain Text: PERDONAR A MI MAMÁ!
+Formatted Text: 
+Text: PERDONAR A MI MAMÁ!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 492091ms
+End Time(in millisecond): 496963ms
+Position: Bottom
+Plain Text: >>¡HIJA! ¡KARINA, MIRA LO QUE TE
+Formatted Text: 
+Text: >>¡HIJA! ¡KARINA, MIRA LO QUE TE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 493759ms
+End Time(in millisecond): 498164ms
+Position: Bottom
+Plain Text: LLEGÓ!
+Formatted Text: 
+Text: LLEGÓ!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 496329ms
+End Time(in millisecond): 500733ms
+Position: Bottom
+Plain Text: >>¿Y QUÉ ES ESTO?
+Formatted Text: 
+Text: >>¿Y QUÉ ES ESTO?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 497029ms
+End Time(in millisecond): 502101ms
+Position: Bottom
+Plain Text: TITA: ¡PUES LÉELO!
+Formatted Text: 
+Text: TITA: ¡PUES LÉELO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 498231ms
+End Time(in millisecond): 505538ms
+Position: Bottom
+Plain Text: >>¿UNA CARTA DE HUGO? ¡QUÉ RARO!
+Formatted Text: 
+Text: >>¿UNA CARTA DE HUGO? ¡QUÉ RARO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 500800ms
+End Time(in millisecond): 507974ms
+Position: Bottom
+Plain Text: >> YO TAMBIÉN PIENSO LO MISMO.
+Formatted Text: 
+Text: >> YO TAMBIÉN PIENSO LO MISMO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 502167ms
+End Time(in millisecond): 509876ms
+Position: Bottom
+Plain Text: ¿QUÉ DICE?
+Formatted Text: 
+Text: ¿QUÉ DICE?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 505605ms
+End Time(in millisecond): 510977ms
+Position: Bottom
+Plain Text: >> LA CARTA NO ES DE HUGO, ES DE
+Formatted Text: 
+Text: >> LA CARTA NO ES DE HUGO, ES DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 508040ms
+End Time(in millisecond): 513379ms
+Position: Bottom
+Plain Text: BLANCA.
+Formatted Text: 
+Text: BLANCA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 509942ms
+End Time(in millisecond): 516449ms
+Position: Bottom
+Plain Text: >> CLARO, LO DEBE HABER HECHO
+Formatted Text: 
+Text: >> CLARO, LO DEBE HABER HECHO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 511043ms
+End Time(in millisecond): 517783ms
+Position: Bottom
+Plain Text: ASÍ PARA DESPISTAR A LA POLICÍA.
+Formatted Text: 
+Text: ASÍ PARA DESPISTAR A LA POLICÍA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 513446ms
+End Time(in millisecond): 520386ms
+Position: Bottom
+Plain Text: ¿QUÉ DICE, HIJA?
+Formatted Text: 
+Text: ¿QUÉ DICE, HIJA?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 516516ms
+End Time(in millisecond): 521687ms
+Position: Bottom
+Plain Text: KARINA: SE FUERON.
+Formatted Text: 
+Text: KARINA: SE FUERON.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 517850ms
+End Time(in millisecond): 523856ms
+Position: Bottom
+Plain Text: >>¿CÓMO QUE SE FUERON?
+Formatted Text: 
+Text: >>¿CÓMO QUE SE FUERON?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 520453ms
+End Time(in millisecond): 525458ms
+Position: Bottom
+Plain Text: >> BLANCA Y SUS HERMANOS SE
+Formatted Text: 
+Text: >> BLANCA Y SUS HERMANOS SE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 521754ms
+End Time(in millisecond): 527260ms
+Position: Bottom
+Plain Text: FUERON DE ACAPULCO. Y QUE
+Formatted Text: 
+Text: FUERON DE ACAPULCO. Y QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 523923ms
+End Time(in millisecond): 527260ms
+Position: Bottom
+Plain Text: NUNCA VAN A REGRESAR.
+Formatted Text: 
+Text: NUNCA VAN A REGRESAR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 525524ms
+End Time(in millisecond): 527260ms
+Position: Bottom
+Plain Text: >>¡AY, NO!
+Formatted Text: 
+Text: >>¡AY, NO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 527926ms
+End Time(in millisecond): 530897ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 532865ms
+End Time(in millisecond): 537904ms
+Position: Bottom
+Plain Text: >> TUS LÁGRIMAS ME DICEN QUE
+Formatted Text: 
+Text: >> TUS LÁGRIMAS ME DICEN QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 533966ms
+End Time(in millisecond): 539572ms
+Position: Bottom
+Plain Text: ESTOY EN LO CIERTO. TE PROMETO
+Formatted Text: 
+Text: ESTOY EN LO CIERTO. TE PROMETO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 536068ms
+End Time(in millisecond): 540540ms
+Position: Bottom
+Plain Text: QUE NO TE VOY A DEJAR SOLA, NI
+Formatted Text: 
+Text: QUE NO TE VOY A DEJAR SOLA, NI
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 537970ms
+End Time(in millisecond): 543509ms
+Position: Bottom
+Plain Text: AHORA NI NUNCA.
+Formatted Text: 
+Text: AHORA NI NUNCA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 539639ms
+End Time(in millisecond): 544410ms
+Position: Bottom
+Plain Text: VOY A ESCUCHAR A ADRIANO SIN
+Formatted Text: 
+Text: VOY A ESCUCHAR A ADRIANO SIN
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 540606ms
+End Time(in millisecond): 546913ms
+Position: Bottom
+Plain Text: PREJUICIOS. A PESAR DE TODAS
+Formatted Text: 
+Text: PREJUICIOS. A PESAR DE TODAS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 543576ms
+End Time(in millisecond): 548281ms
+Position: Bottom
+Plain Text: NUESTRAS DIFERENCIAS,
+Formatted Text: 
+Text: NUESTRAS DIFERENCIAS,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 544477ms
+End Time(in millisecond): 549615ms
+Position: Bottom
+Plain Text: SÉ QUE ESE HOMBRE TE AMÓ Y
+Formatted Text: 
+Text: SÉ QUE ESE HOMBRE TE AMÓ Y
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 546979ms
+End Time(in millisecond): 551684ms
+Position: Bottom
+Plain Text: ME ENCANTARÍA SER EL FRUTO
+Formatted Text: 
+Text: ME ENCANTARÍA SER EL FRUTO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 548347ms
+End Time(in millisecond): 551684ms
+Position: Bottom
+Plain Text: DE ESE AMOR.
+Formatted Text: 
+Text: DE ESE AMOR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 549682ms
+End Time(in millisecond): 551684ms
+Position: Bottom
+Plain Text: RAQUEL: CRISTÓBAL...
+Formatted Text: 
+Text: RAQUEL: CRISTÓBAL...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 556122ms
+End Time(in millisecond): 560426ms
+Position: Bottom
+Plain Text: TERMINEMOS DE UNA VEZ POR
+Formatted Text: 
+Text: TERMINEMOS DE UNA VEZ POR
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 557823ms
+End Time(in millisecond): 561594ms
+Position: Bottom
+Plain Text: TODAS CON ESTA TORTURA.
+Formatted Text: 
+Text: TODAS CON ESTA TORTURA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 558991ms
+End Time(in millisecond): 563396ms
+Position: Bottom
+Plain Text: >>¿ACASO NO PUEDO TENER
+Formatted Text: 
+Text: >>¿ACASO NO PUEDO TENER
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 560493ms
+End Time(in millisecond): 563396ms
+Position: Bottom
+Plain Text: UN MOMENTO DE PRIVACIDAD
+Formatted Text: 
+Text: UN MOMENTO DE PRIVACIDAD
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 561660ms
+End Time(in millisecond): 563396ms
+Position: Bottom
+Plain Text: CON ELLA?
+Formatted Text: 
+Text: CON ELLA?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 566932ms
+End Time(in millisecond): 572905ms
+Position: Bottom
+Plain Text: >> ES CIERTO.
+Formatted Text: 
+Text: >> ES CIERTO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 571037ms
+End Time(in millisecond): 572905ms
+Position: Bottom
+Plain Text: ERES TÚ. [SOLLOZA]
+Formatted Text: 
+Text: ERES TÚ. [SOLLOZA]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 574807ms
+End Time(in millisecond): 583816ms
+Position: Bottom
+Plain Text: >>¿CÓMO?
+Formatted Text: 
+Text: >>¿CÓMO?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 578177ms
+End Time(in millisecond): 585885ms
+Position: Bottom
+Plain Text: >> VOY A TERMINAR CON ESTA
+Formatted Text: 
+Text: >> VOY A TERMINAR CON ESTA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 579579ms
+End Time(in millisecond): 585885ms
+Position: Bottom
+Plain Text: MENTIRA, CRISTÓBAL. POR TI...
+Formatted Text: 
+Text: MENTIRA, CRISTÓBAL. POR TI...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 583882ms
+End Time(in millisecond): 585885ms
+Position: Bottom
+Plain Text: Y POR TUS HERMANOS.
+Formatted Text: 
+Text: Y POR TUS HERMANOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 588921ms
+End Time(in millisecond): 593225ms
+Position: Bottom
+Plain Text: VALENTINA ES TU MADRE.
+Formatted Text: 
+Text: VALENTINA ES TU MADRE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 591523ms
+End Time(in millisecond): 593225ms
+Position: Bottom
+Plain Text: [SOLLOZOS]
+Formatted Text: 
+Text: [SOLLOZOS]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 594292ms
+End Time(in millisecond): 599365ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 600066ms
+End Time(in millisecond): 603769ms
+Position: Bottom
+Plain Text: >> EDUARDO, GRACIAS POR
+Formatted Text: 
+Text: >> EDUARDO, GRACIAS POR
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 601233ms
+End Time(in millisecond): 604770ms
+Position: Bottom
+Plain Text: HABER VENIDO.
+Formatted Text: 
+Text: HABER VENIDO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 602568ms
+End Time(in millisecond): 605905ms
+Position: Bottom
+Plain Text: >> SOLAMENTE ESPERO QUE LA
+Formatted Text: 
+Text: >> SOLAMENTE ESPERO QUE LA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 603836ms
+End Time(in millisecond): 608708ms
+Position: Bottom
+Plain Text: SITUACIÓN CON CRISTÓBAL Y CON
+Formatted Text: 
+Text: SITUACIÓN CON CRISTÓBAL Y CON
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 604837ms
+End Time(in millisecond): 610743ms
+Position: Bottom
+Plain Text: NOSOTROS SE RESUELVA PRONTO.
+Formatted Text: 
+Text: NOSOTROS SE RESUELVA PRONTO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 605972ms
+End Time(in millisecond): 610743ms
+Position: Bottom
+Plain Text: >>SÍ, YO TAMBIÉN ASÍ LO ESPERO.
+Formatted Text: 
+Text: >>SÍ, YO TAMBIÉN ASÍ LO ESPERO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 608774ms
+End Time(in millisecond): 610743ms
+Position: Bottom
+Plain Text: QUE TE VAYA BIEN.
+Formatted Text: 
+Text: QUE TE VAYA BIEN.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 611576ms
+End Time(in millisecond): 614780ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 616215ms
+End Time(in millisecond): 623889ms
+Position: Bottom
+Plain Text: >> ESO NO PUEDE SER CIERTO.
+Formatted Text: 
+Text: >> ESO NO PUEDE SER CIERTO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 619652ms
+End Time(in millisecond): 629195ms
+Position: Bottom
+Plain Text: >> YO NUNCA PENSÉ QUE TE LO
+Formatted Text: 
+Text: >> YO NUNCA PENSÉ QUE TE LO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 620786ms
+End Time(in millisecond): 631464ms
+Position: Bottom
+Plain Text: IBA A DECIR. NUNCA QUISE QUE
+Formatted Text: 
+Text: IBA A DECIR. NUNCA QUISE QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 623956ms
+End Time(in millisecond): 631464ms
+Position: Bottom
+Plain Text: ESTA VERDAD SE SUPIERA. PERO...
+Formatted Text: 
+Text: ESTA VERDAD SE SUPIERA. PERO...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 629261ms
+End Time(in millisecond): 631464ms
+Position: Bottom
+Plain Text: NO HABÍA OTRA ALTERNATIVA.
+Formatted Text: 
+Text: NO HABÍA OTRA ALTERNATIVA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 633232ms
+End Time(in millisecond): 642642ms
+Position: Bottom
+Plain Text: >> VALENTINA...
+Formatted Text: 
+Text: >> VALENTINA...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 634867ms
+End Time(in millisecond): 645411ms
+Position: Bottom
+Plain Text: >> TIENES RAZÓN. CADA VEZ QUE
+Formatted Text: 
+Text: >> TIENES RAZÓN. CADA VEZ QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 638404ms
+End Time(in millisecond): 649949ms
+Position: Bottom
+Plain Text: TE VEÍA... RECORDABA EL AMOR
+Formatted Text: 
+Text: TE VEÍA... RECORDABA EL AMOR
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 642708ms
+End Time(in millisecond): 652218ms
+Position: Bottom
+Plain Text: DE ADRIANO Y VALENTINA.
+Formatted Text: 
+Text: DE ADRIANO Y VALENTINA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 645478ms
+End Time(in millisecond): 655655ms
+Position: Bottom
+Plain Text: Y TE JURO...
+Formatted Text: 
+Text: Y TE JURO...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 650016ms
+End Time(in millisecond): 657023ms
+Position: Bottom
+Plain Text: [SOLLOZA] TE JURO QUE SE ME
+Formatted Text: 
+Text: [SOLLOZA] TE JURO QUE SE ME
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 652284ms
+End Time(in millisecond): 658491ms
+Position: Bottom
+Plain Text: REVOLVÍA EL ESTÓMAGO. 
+Formatted Text: 
+Text: REVOLVÍA EL ESTÓMAGO. 
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 655721ms
+End Time(in millisecond): 660593ms
+Position: Bottom
+Plain Text: MI HERMANA ARRUINÓ SU VIDA 
+Formatted Text: 
+Text: MI HERMANA ARRUINÓ SU VIDA 
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 657089ms
+End Time(in millisecond): 662662ms
+Position: Bottom
+Plain Text: CON ESE EMBARAZO.
+Formatted Text: 
+Text: CON ESE EMBARAZO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 658557ms
+End Time(in millisecond): 665865ms
+Position: Bottom
+Plain Text: >>¿CÓMO PUEDES SER TAN CRUEL,
+Formatted Text: 
+Text: >>¿CÓMO PUEDES SER TAN CRUEL,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 660660ms
+End Time(in millisecond): 671337ms
+Position: Bottom
+Plain Text: RAQUEL ALTAMIRA?
+Formatted Text: 
+Text: RAQUEL ALTAMIRA?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 662728ms
+End Time(in millisecond): 673472ms
+Position: Bottom
+Plain Text: >>¿CRUEL? TE CUIDÉ COMO UNO
+Formatted Text: 
+Text: >>¿CRUEL? TE CUIDÉ COMO UNO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 665931ms
+End Time(in millisecond): 674874ms
+Position: Bottom
+Plain Text: DE MIS HIJOS. Y TE QUISE.
+Formatted Text: 
+Text: DE MIS HIJOS. Y TE QUISE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 671404ms
+End Time(in millisecond): 676676ms
+Position: Bottom
+Plain Text: TE QUISE MUCHO MÁS... DE LO QUE
+Formatted Text: 
+Text: TE QUISE MUCHO MÁS... DE LO QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 673539ms
+End Time(in millisecond): 677943ms
+Position: Bottom
+Plain Text: ELLA TE HUBIERA QUERIDO.
+Formatted Text: 
+Text: ELLA TE HUBIERA QUERIDO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 674940ms
+End Time(in millisecond): 679645ms
+Position: Bottom
+Plain Text: >>NUNCA ME QUISISTE. TÚ,
+Formatted Text: 
+Text: >>NUNCA ME QUISISTE. TÚ,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 676742ms
+End Time(in millisecond): 681113ms
+Position: Bottom
+Plain Text: SOLAMENTE ME DEMOSTRABAS
+Formatted Text: 
+Text: SOLAMENTE ME DEMOSTRABAS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 678010ms
+End Time(in millisecond): 682515ms
+Position: Bottom
+Plain Text: DESPRECIO, MIENTRAS YO
+Formatted Text: 
+Text: DESPRECIO, MIENTRAS YO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 679712ms
+End Time(in millisecond): 686819ms
+Position: Bottom
+Plain Text: LUCHABA DURAMENTE ¡POR
+Formatted Text: 
+Text: LUCHABA DURAMENTE ¡POR
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 681180ms
+End Time(in millisecond): 690890ms
+Position: Bottom
+Plain Text: UN POQUITO DE TU AMOR!
+Formatted Text: 
+Text: UN POQUITO DE TU AMOR!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 682581ms
+End Time(in millisecond): 694560ms
+Position: Bottom
+Plain Text: >> YO TE QUISE, CRISTÓBAL.
+Formatted Text: 
+Text: >> YO TE QUISE, CRISTÓBAL.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 686886ms
+End Time(in millisecond): 697229ms
+Position: Bottom
+Plain Text: A MI MANERA... CON MI MODO...
+Formatted Text: 
+Text: A MI MANERA... CON MI MODO...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 690956ms
+End Time(in millisecond): 698464ms
+Position: Bottom
+Plain Text: TE QUISE... Y TE QUIERO MUCHO.
+Formatted Text: 
+Text: TE QUISE... Y TE QUIERO MUCHO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 694627ms
+End Time(in millisecond): 700166ms
+Position: Bottom
+Plain Text: >>¡SÍ, CLARO! ME QUIERES, PERO
+Formatted Text: 
+Text: >>¡SÍ, CLARO! ME QUIERES, PERO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 697296ms
+End Time(in millisecond): 704136ms
+Position: Bottom
+Plain Text: COMO UN SOBRINO; PORQUE
+Formatted Text: 
+Text: COMO UN SOBRINO; PORQUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 698530ms
+End Time(in millisecond): 709208ms
+Position: Bottom
+Plain Text: ESO SOY PARA TI: ¡UN SOBRINO!
+Formatted Text: 
+Text: ESO SOY PARA TI: ¡UN SOBRINO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 700232ms
+End Time(in millisecond): 713479ms
+Position: Bottom
+Plain Text: >>¡NO! NO, CRISTÓBAL.
+Formatted Text: 
+Text: >>¡NO! NO, CRISTÓBAL.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 704203ms
+End Time(in millisecond): 714780ms
+Position: Bottom
+Plain Text: YO TE CRÍE COMO UN HIJO.
+Formatted Text: 
+Text: YO TE CRÍE COMO UN HIJO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 709275ms
+End Time(in millisecond): 718384ms
+Position: Bottom
+Plain Text: Y ESO SIEMPRE VAS A SER PARA MÍ.
+Formatted Text: 
+Text: Y ESO SIEMPRE VAS A SER PARA MÍ.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 713546ms
+End Time(in millisecond): 721353ms
+Position: Bottom
+Plain Text: ESPERO QUE AHORA QUE SABES
+Formatted Text: 
+Text: ESPERO QUE AHORA QUE SABES
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 714847ms
+End Time(in millisecond): 723522ms
+Position: Bottom
+Plain Text: LA VERDAD... ME AGRADEZCAS QUE
+Formatted Text: 
+Text: LA VERDAD... ME AGRADEZCAS QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 718451ms
+End Time(in millisecond): 723522ms
+Position: Bottom
+Plain Text: NO TE HAYA DADO EN ADOPCIÓN...
+Formatted Text: 
+Text: NO TE HAYA DADO EN ADOPCIÓN...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 721420ms
+End Time(in millisecond): 723522ms
+Position: Bottom
+Plain Text: COMO QUERÍA MI PADRE.
+Formatted Text: 
+Text: COMO QUERÍA MI PADRE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 723989ms
+End Time(in millisecond): 728961ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 731530ms
+End Time(in millisecond): 734233ms
+Position: Bottom
+Plain Text: >>¿QUÉ PASÓ? ¿PUDISTE
+Formatted Text: 
+Text: >>¿QUÉ PASÓ? ¿PUDISTE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 732398ms
+End Time(in millisecond): 735801ms
+Position: Bottom
+Plain Text: HABLAR CON BLANCA?
+Formatted Text: 
+Text: HABLAR CON BLANCA?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 733365ms
+End Time(in millisecond): 736802ms
+Position: Bottom
+Plain Text: >> NO. NO ME CONTESTA SU
+Formatted Text: 
+Text: >> NO. NO ME CONTESTA SU
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 734300ms
+End Time(in millisecond): 738270ms
+Position: Bottom
+Plain Text: CELULAR, NI EL DE SIMONA.
+Formatted Text: 
+Text: CELULAR, NI EL DE SIMONA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 735868ms
+End Time(in millisecond): 741073ms
+Position: Bottom
+Plain Text: >> TRANQUILA, SEGURAMENTE
+Formatted Text: 
+Text: >> TRANQUILA, SEGURAMENTE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 736869ms
+End Time(in millisecond): 743375ms
+Position: Bottom
+Plain Text: ESTÁN BIEN.
+Formatted Text: 
+Text: ESTÁN BIEN.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 738337ms
+End Time(in millisecond): 744443ms
+Position: Bottom
+Plain Text: >>¿Y TÚ? ¿YA TE SIENTES MEJOR?
+Formatted Text: 
+Text: >>¿Y TÚ? ¿YA TE SIENTES MEJOR?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 741140ms
+End Time(in millisecond): 745644ms
+Position: Bottom
+Plain Text: >> NO. NO PUEDO DEJAR DE PENSAR
+Formatted Text: 
+Text: >> NO. NO PUEDO DEJAR DE PENSAR
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 743442ms
+End Time(in millisecond): 746545ms
+Position: Bottom
+Plain Text: EN QUE CRISTÓBAL Y EDUARDO NO
+Formatted Text: 
+Text: EN QUE CRISTÓBAL Y EDUARDO NO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 744510ms
+End Time(in millisecond): 747913ms
+Position: Bottom
+Plain Text: SEAN MIS HERMANOS.
+Formatted Text: 
+Text: SEAN MIS HERMANOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 745711ms
+End Time(in millisecond): 748914ms
+Position: Bottom
+Plain Text: >> ELLOS NUNCA VAN A DEJAR DE
+Formatted Text: 
+Text: >> ELLOS NUNCA VAN A DEJAR DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 746612ms
+End Time(in millisecond): 750316ms
+Position: Bottom
+Plain Text: SER TUS HERMANOS, PASE LO
+Formatted Text: 
+Text: SER TUS HERMANOS, PASE LO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 747980ms
+End Time(in millisecond): 751984ms
+Position: Bottom
+Plain Text: QUE PASE.
+Formatted Text: 
+Text: QUE PASE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 748981ms
+End Time(in millisecond): 752852ms
+Position: Bottom
+Plain Text: >> CRISTÓBAL ESTÁ CONVENCIDO DE
+Formatted Text: 
+Text: >> CRISTÓBAL ESTÁ CONVENCIDO DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 750382ms
+End Time(in millisecond): 754186ms
+Position: Bottom
+Plain Text: QUE ÉL ES EL HIJO DE ADRIANO.
+Formatted Text: 
+Text: QUE ÉL ES EL HIJO DE ADRIANO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 752051ms
+End Time(in millisecond): 755020ms
+Position: Bottom
+Plain Text: Y LO PEOR DE TODO, ES QUE CREO
+Formatted Text: 
+Text: Y LO PEOR DE TODO, ES QUE CREO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 752918ms
+End Time(in millisecond): 756822ms
+Position: Bottom
+Plain Text: QUE TIENE RAZÓN.
+Formatted Text: 
+Text: QUE TIENE RAZÓN.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 754253ms
+End Time(in millisecond): 759391ms
+Position: Bottom
+Plain Text: MAMÁ SIEMPRE LO HA HECHO
+Formatted Text: 
+Text: MAMÁ SIEMPRE LO HA HECHO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 755087ms
+End Time(in millisecond): 760292ms
+Position: Bottom
+Plain Text: MENOS, ¡LO HUMILLA!
+Formatted Text: 
+Text: MENOS, ¡LO HUMILLA!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 756922ms
+End Time(in millisecond): 762194ms
+Position: Bottom
+Plain Text: ¡NUNCA LO HA APOYADO EN NADA!
+Formatted Text: 
+Text: ¡NUNCA LO HA APOYADO EN NADA!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 759458ms
+End Time(in millisecond): 762862ms
+Position: Bottom
+Plain Text: ¿CÓMO VOY A VER A MI MADRE
+Formatted Text: 
+Text: ¿CÓMO VOY A VER A MI MADRE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 760359ms
+End Time(in millisecond): 764630ms
+Position: Bottom
+Plain Text: DESPUÉS DE ESTO, KARINA?
+Formatted Text: 
+Text: DESPUÉS DE ESTO, KARINA?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 762261ms
+End Time(in millisecond): 764630ms
+Position: Bottom
+Plain Text: ¿CÓMO PUEDO PERDONARLE
+Formatted Text: 
+Text: ¿CÓMO PUEDO PERDONARLE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 762928ms
+End Time(in millisecond): 764630ms
+Position: Bottom
+Plain Text: ALGO ASÍ?
+Formatted Text: 
+Text: ALGO ASÍ?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 765630ms
+End Time(in millisecond): 767666ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 769268ms
+End Time(in millisecond): 770970ms
+Position: Bottom
+Plain Text: [TIMBRE DE LA PUERTA]
+Formatted Text: 
+Text: [TIMBRE DE LA PUERTA]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 771904ms
+End Time(in millisecond): 776642ms
+Position: Bottom
+Plain Text: [RUIDO AL ABRIR] >> MELANIA...
+Formatted Text: 
+Text: [RUIDO AL ABRIR] >> MELANIA...
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 773606ms
+End Time(in millisecond): 778410ms
+Position: Bottom
+Plain Text: >> VI SALIR A EDUARDO.
+Formatted Text: 
+Text: >> VI SALIR A EDUARDO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 774907ms
+End Time(in millisecond): 778410ms
+Position: Bottom
+Plain Text: >>¡SÍ! SÍ, ASÍ ES. PASA
+Formatted Text: 
+Text: >>¡SÍ! SÍ, ASÍ ES. PASA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 776709ms
+End Time(in millisecond): 778410ms
+Position: Bottom
+Plain Text: POR FAVOR.
+Formatted Text: 
+Text: POR FAVOR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 779979ms
+End Time(in millisecond): 782014ms
+Position: Bottom
+Plain Text: [♪♪♪♪♪]
+Formatted Text: 
+Text: [♪♪♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 782882ms
+End Time(in millisecond): 784884ms
+Position: Bottom
+Plain Text: SIÉNTATE.
+Formatted Text: 
+Text: SIÉNTATE.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 787887ms
+End Time(in millisecond): 795227ms
+Position: Bottom
+Plain Text: >> NO PUDE DORMIR. Y SI LO QUE
+Formatted Text: 
+Text: >> NO PUDE DORMIR. Y SI LO QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 790890ms
+End Time(in millisecond): 796896ms
+Position: Bottom
+Plain Text: DICES ES VERDAD, QUE MI HIJA
+Formatted Text: 
+Text: DICES ES VERDAD, QUE MI HIJA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 792291ms
+End Time(in millisecond): 796896ms
+Position: Bottom
+Plain Text: ES INOCENTE, TIENE QUE SER
+Formatted Text: 
+Text: ES INOCENTE, TIENE QUE SER
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 795294ms
+End Time(in millisecond): 796896ms
+Position: Bottom
+Plain Text: LIBERADA.
+Formatted Text: 
+Text: LIBERADA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 797629ms
+End Time(in millisecond): 801634ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 803202ms
+End Time(in millisecond): 806872ms
+Position: Bottom
+Plain Text: >> VAMOS AL ESTUDIO, QUIERO
+Formatted Text: 
+Text: >> VAMOS AL ESTUDIO, QUIERO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 804503ms
+End Time(in millisecond): 808474ms
+Position: Bottom
+Plain Text: SEGUIR HABLANDO CONTIGO.
+Formatted Text: 
+Text: SEGUIR HABLANDO CONTIGO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 806105ms
+End Time(in millisecond): 810009ms
+Position: Bottom
+Plain Text: >> YO NO TENGO NADA QUE
+Formatted Text: 
+Text: >> YO NO TENGO NADA QUE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 806939ms
+End Time(in millisecond): 811410ms
+Position: Bottom
+Plain Text: HABLAR CONTIGO.
+Formatted Text: 
+Text: HABLAR CONTIGO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 808574ms
+End Time(in millisecond): 812745ms
+Position: Bottom
+Plain Text: ¡ME ROBASTE A TU HERMANA!
+Formatted Text: 
+Text: ¡ME ROBASTE A TU HERMANA!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 810109ms
+End Time(in millisecond): 814380ms
+Position: Bottom
+Plain Text: ¡ME HAS HECHO LA VIDA IMPOSIBLE
+Formatted Text: 
+Text: ¡ME HAS HECHO LA VIDA IMPOSIBLE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 811477ms
+End Time(in millisecond): 815281ms
+Position: Bottom
+Plain Text: DESDE QUE SOY UN NIÑO!
+Formatted Text: 
+Text: DESDE QUE SOY UN NIÑO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 812845ms
+End Time(in millisecond): 816382ms
+Position: Bottom
+Plain Text: ¡¿QUÉ QUIERES HABLAR CONMIGO?!
+Formatted Text: 
+Text: ¡¿QUÉ QUIERES HABLAR CONMIGO?!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 814446ms
+End Time(in millisecond): 817483ms
+Position: Bottom
+Plain Text: >>¡TE SALVÉ DEL ORFANATO,
+Formatted Text: 
+Text: >>¡TE SALVÉ DEL ORFANATO,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 815347ms
+End Time(in millisecond): 818717ms
+Position: Bottom
+Plain Text: NO SEAS MALAGRADECIDO!
+Formatted Text: 
+Text: NO SEAS MALAGRADECIDO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 816448ms
+End Time(in millisecond): 819518ms
+Position: Bottom
+Plain Text: >>¡SÍ, SÍ, ME SALVASTE DE UN
+Formatted Text: 
+Text: >>¡SÍ, SÍ, ME SALVASTE DE UN
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 817549ms
+End Time(in millisecond): 822454ms
+Position: Bottom
+Plain Text: ORFANATO!
+Formatted Text: 
+Text: ORFANATO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 818784ms
+End Time(in millisecond): 823689ms
+Position: Bottom
+Plain Text: PERO HUBIERA PREFERIDO ESTAR
+Formatted Text: 
+Text: PERO HUBIERA PREFERIDO ESTAR
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 819585ms
+End Time(in millisecond): 824990ms
+Position: Bottom
+Plain Text: AHÍ. ¡HUBIERA SIDO FELIZ!
+Formatted Text: 
+Text: AHÍ. ¡HUBIERA SIDO FELIZ!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 822521ms
+End Time(in millisecond): 826158ms
+Position: Bottom
+Plain Text: PORQUE YO, SOY EL ÚNICO DE MIS
+Formatted Text: 
+Text: PORQUE YO, SOY EL ÚNICO DE MIS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 823756ms
+End Time(in millisecond): 827560ms
+Position: Bottom
+Plain Text: HERMANOS ¡QUE SABE EL TIPO DE
+Formatted Text: 
+Text: HERMANOS ¡QUE SABE EL TIPO DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 825057ms
+End Time(in millisecond): 828594ms
+Position: Bottom
+Plain Text: MUJER QUE ERES!
+Formatted Text: 
+Text: MUJER QUE ERES!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 826225ms
+End Time(in millisecond): 830496ms
+Position: Bottom
+Plain Text: RAQUEL: ¡CUIDA TUS PALABRAS!
+Formatted Text: 
+Text: RAQUEL: ¡CUIDA TUS PALABRAS!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 827626ms
+End Time(in millisecond): 832331ms
+Position: Bottom
+Plain Text: >> NO OLVIDES QUE YO SÉ DEL
+Formatted Text: 
+Text: >> NO OLVIDES QUE YO SÉ DEL
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 828661ms
+End Time(in millisecond): 833465ms
+Position: Bottom
+Plain Text: ASESINATO DE MEMO GUERRERO.
+Formatted Text: 
+Text: ASESINATO DE MEMO GUERRERO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 830596ms
+End Time(in millisecond): 835201ms
+Position: Bottom
+Plain Text: ¡YO SÉ DE TODAS TUS COSAS!
+Formatted Text: 
+Text: ¡YO SÉ DE TODAS TUS COSAS!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 832398ms
+End Time(in millisecond): 837469ms
+Position: Bottom
+Plain Text: Y CRÉEME, ¡QUE ACABAS DE
+Formatted Text: 
+Text: Y CRÉEME, ¡QUE ACABAS DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 833532ms
+End Time(in millisecond): 837469ms
+Position: Bottom
+Plain Text: PERDER A TU MEJOR ALIADO!
+Formatted Text: 
+Text: PERDER A TU MEJOR ALIADO!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 835267ms
+End Time(in millisecond): 837469ms
+Position: Bottom
+Plain Text: >> ESPÉRAME... ¡ESPÉRAME!
+Formatted Text: 
+Text: >> ESPÉRAME... ¡ESPÉRAME!
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 840172ms
+End Time(in millisecond): 844243ms
+Position: Bottom
+Plain Text: ¿ESTÁS CONTENTA?
+Formatted Text: 
+Text: ¿ESTÁS CONTENTA?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 842508ms
+End Time(in millisecond): 844243ms
+Position: Bottom
+Plain Text: MAL AGRADECIDA.
+Formatted Text: 
+Text: MAL AGRADECIDA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 844709ms
+End Time(in millisecond): 849815ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 850649ms
+End Time(in millisecond): 854186ms
+Position: Bottom
+Plain Text: >> AQUÍ TIENES, MELANIA.
+Formatted Text: 
+Text: >> AQUÍ TIENES, MELANIA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 852051ms
+End Time(in millisecond): 856522ms
+Position: Bottom
+Plain Text: >> GRACIAS, ADRIANO. NO TE
+Formatted Text: 
+Text: >> GRACIAS, ADRIANO. NO TE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 853152ms
+End Time(in millisecond): 858324ms
+Position: Bottom
+Plain Text: HUBIERAS MOLESTADO.
+Formatted Text: 
+Text: HUBIERAS MOLESTADO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 854253ms
+End Time(in millisecond): 858991ms
+Position: Bottom
+Plain Text: >> NO ES NINGUNA MOLESTIA.
+Formatted Text: 
+Text: >> NO ES NINGUNA MOLESTIA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 856589ms
+End Time(in millisecond): 861627ms
+Position: Bottom
+Plain Text: PARA MÍ ERES UNA VISITA COMO
+Formatted Text: 
+Text: PARA MÍ ERES UNA VISITA COMO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 858390ms
+End Time(in millisecond): 864430ms
+Position: Bottom
+Plain Text: CUALQUIER OTRA QUE VIENE A
+Formatted Text: 
+Text: CUALQUIER OTRA QUE VIENE A
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 859057ms
+End Time(in millisecond): 866732ms
+Position: Bottom
+Plain Text: MI CASA.
+Formatted Text: 
+Text: MI CASA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 861693ms
+End Time(in millisecond): 868234ms
+Position: Bottom
+Plain Text: >> ME CUESTA TRABAJO... SABER
+Formatted Text: 
+Text: >> ME CUESTA TRABAJO... SABER
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 864496ms
+End Time(in millisecond): 870236ms
+Position: Bottom
+Plain Text: QUE LETICIA ES INOCENTE. ELLA
+Formatted Text: 
+Text: QUE LETICIA ES INOCENTE. ELLA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 866799ms
+End Time(in millisecond): 871737ms
+Position: Bottom
+Plain Text: ENGAÑABA A LA SRA. RAQUEL CON
+Formatted Text: 
+Text: ENGAÑABA A LA SRA. RAQUEL CON
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 868300ms
+End Time(in millisecond): 874039ms
+Position: Bottom
+Plain Text: JUAN CARLOS.
+Formatted Text: 
+Text: JUAN CARLOS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 870302ms
+End Time(in millisecond): 876508ms
+Position: Bottom
+Plain Text: >> SÍ. PERO ESO NO LA CONVIERTE
+Formatted Text: 
+Text: >> SÍ. PERO ESO NO LA CONVIERTE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 871803ms
+End Time(in millisecond): 877843ms
+Position: Bottom
+Plain Text: EN ASESINA.
+Formatted Text: 
+Text: EN ASESINA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 874106ms
+End Time(in millisecond): 879044ms
+Position: Bottom
+Plain Text: RAQUEL LO MATÓ, MELANIA. Y
+Formatted Text: 
+Text: RAQUEL LO MATÓ, MELANIA. Y
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 876575ms
+End Time(in millisecond): 880346ms
+Position: Bottom
+Plain Text: LE TENDIÓ UNA TRAMPA A TU
+Formatted Text: 
+Text: LE TENDIÓ UNA TRAMPA A TU
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 877910ms
+End Time(in millisecond): 881447ms
+Position: Bottom
+Plain Text: HIJA PARA QUE PAGARA POR
+Formatted Text: 
+Text: HIJA PARA QUE PAGARA POR
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 879111ms
+End Time(in millisecond): 883549ms
+Position: Bottom
+Plain Text: SU CRIMEN.
+Formatted Text: 
+Text: SU CRIMEN.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 880412ms
+End Time(in millisecond): 884850ms
+Position: Bottom
+Plain Text: >>¿Y POR QUÉ IBA A HACER ESO,
+Formatted Text: 
+Text: >>¿Y POR QUÉ IBA A HACER ESO,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 881513ms
+End Time(in millisecond): 887453ms
+Position: Bottom
+Plain Text: SI ERA EL PADRE DE SUS HIJOS?
+Formatted Text: 
+Text: SI ERA EL PADRE DE SUS HIJOS?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 883616ms
+End Time(in millisecond): 890656ms
+Position: Bottom
+Plain Text: >> NO. EL PADRE DE DOS DE SUS
+Formatted Text: 
+Text: >> NO. EL PADRE DE DOS DE SUS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 884917ms
+End Time(in millisecond): 891991ms
+Position: Bottom
+Plain Text: HIJOS, PORQUE UNO DE ELLOS ES
+Formatted Text: 
+Text: HIJOS, PORQUE UNO DE ELLOS ES
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 887519ms
+End Time(in millisecond): 894226ms
+Position: Bottom
+Plain Text: DE VALENTINA Y MÍO.
+Formatted Text: 
+Text: DE VALENTINA Y MÍO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 890723ms
+End Time(in millisecond): 896061ms
+Position: Bottom
+Plain Text: SI NO ME QUIERES DECIR QUIÉN ES,
+Formatted Text: 
+Text: SI NO ME QUIERES DECIR QUIÉN ES,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 892057ms
+End Time(in millisecond): 898063ms
+Position: Bottom
+Plain Text: NO HAY PROBLEMA. SÉ QUE RAQUEL
+Formatted Text: 
+Text: NO HAY PROBLEMA. SÉ QUE RAQUEL
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 894293ms
+End Time(in millisecond): 899365ms
+Position: Bottom
+Plain Text: TODAVÍA TE PUEDE HACER DAÑO, Y A
+Formatted Text: 
+Text: TODAVÍA TE PUEDE HACER DAÑO, Y A
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 896128ms
+End Time(in millisecond): 900900ms
+Position: Bottom
+Plain Text: TU HIJA TAMBIÉN.
+Formatted Text: 
+Text: TU HIJA TAMBIÉN.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 898130ms
+End Time(in millisecond): 903269ms
+Position: Bottom
+Plain Text: >>BUENO, ¿POR QUÉ QUIERES
+Formatted Text: 
+Text: >>BUENO, ¿POR QUÉ QUIERES
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 899431ms
+End Time(in millisecond): 904703ms
+Position: Bottom
+Plain Text: AYUDAR A LETICIA?
+Formatted Text: 
+Text: AYUDAR A LETICIA?
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 900966ms
+End Time(in millisecond): 905971ms
+Position: Bottom
+Plain Text: >>PORQUE ES LO JUSTO, MELANIA.
+Formatted Text: 
+Text: >>PORQUE ES LO JUSTO, MELANIA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 903335ms
+End Time(in millisecond): 908073ms
+Position: Bottom
+Plain Text: PUEDO TENER MUCHOS DEFECTOS,
+Formatted Text: 
+Text: PUEDO TENER MUCHOS DEFECTOS,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 904770ms
+End Time(in millisecond): 909475ms
+Position: Bottom
+Plain Text: PERO SOY UN HOMBRE QUE LUCHA
+Formatted Text: 
+Text: PERO SOY UN HOMBRE QUE LUCHA
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 906038ms
+End Time(in millisecond): 910876ms
+Position: Bottom
+Plain Text: POR LA JUSTICIA Y RAQUEL
+Formatted Text: 
+Text: POR LA JUSTICIA Y RAQUEL
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 908140ms
+End Time(in millisecond): 912978ms
+Position: Bottom
+Plain Text: VA A PAGAR POR EL CRIMEN DE
+Formatted Text: 
+Text: VA A PAGAR POR EL CRIMEN DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 909541ms
+End Time(in millisecond): 914113ms
+Position: Bottom
+Plain Text: SU MARIDO Y DE TANTOS MÁS.
+Formatted Text: 
+Text: SU MARIDO Y DE TANTOS MÁS.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 910976ms
+End Time(in millisecond): 916482ms
+Position: Bottom
+Plain Text: ¡ABRE LOS OJOS! AÚN TIENES
+Formatted Text: 
+Text: ¡ABRE LOS OJOS! AÚN TIENES
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 913045ms
+End Time(in millisecond): 918617ms
+Position: Bottom
+Plain Text: TIEMPO DE ENMENDAR TUS
+Formatted Text: 
+Text: TIEMPO DE ENMENDAR TUS
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 914179ms
+End Time(in millisecond): 920185ms
+Position: Bottom
+Plain Text: ERRORES; SALVA A TU HIJA DE
+Formatted Text: 
+Text: ERRORES; SALVA A TU HIJA DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 916548ms
+End Time(in millisecond): 922087ms
+Position: Bottom
+Plain Text: TODO ESTO,
+Formatted Text: 
+Text: TODO ESTO,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 918684ms
+End Time(in millisecond): 924223ms
+Position: Bottom
+Plain Text: RAQUEL NO ES TU SALVADORA,
+Formatted Text: 
+Text: RAQUEL NO ES TU SALVADORA,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 920252ms
+End Time(in millisecond): 924223ms
+Position: Bottom
+Plain Text: -COMO TE HA HECHO CREER-.
+Formatted Text: 
+Text: -COMO TE HA HECHO CREER-.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 922154ms
+End Time(in millisecond): 924223ms
+Position: Bottom
+Plain Text: ES TU PEOR ENEMIGA, MELANIA.
+Formatted Text: 
+Text: ES TU PEOR ENEMIGA, MELANIA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 925023ms
+End Time(in millisecond): 928060ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 929261ms
+End Time(in millisecond): 934366ms
+Position: Bottom
+Plain Text: [CHAPALEO DEL AGUA]
+Formatted Text: 
+Text: [CHAPALEO DEL AGUA]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 937302ms
+End Time(in millisecond): 940272ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 946378ms
+End Time(in millisecond): 956555ms
+Position: Bottom
+Plain Text: [RECUERDA] >>VOY A TERMINAR
+Formatted Text: 
+Text: [RECUERDA]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+Text:  >>VOY A TERMINAR
+Is Bold: 0
+Is Italic: 1
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 948113ms
+End Time(in millisecond): 958657ms
+Position: Bottom
+Plain Text: CON ESTA MENTIRA, CRISTÓBAL,
+Formatted Text: 
+Text: CON ESTA MENTIRA, CRISTÓBAL,
+Is Bold: 0
+Is Italic: 1
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 950182ms
+End Time(in millisecond): 958657ms
+Position: Bottom
+Plain Text: POR TI Y POR TUS HERMANOS.
+Formatted Text: 
+Text: POR TI Y POR TUS HERMANOS.
+Is Bold: 0
+Is Italic: 1
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 956622ms
+End Time(in millisecond): 958657ms
+Position: Bottom
+Plain Text: VALENTINA ES TU MADRE. 
+Formatted Text: 
+Text: VALENTINA ES TU MADRE. 
+Is Bold: 0
+Is Italic: 1
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 959824ms
+End Time(in millisecond): 962795ms
+Position: Bottom
+Plain Text: [♪♪♪]
+Formatted Text: 
+Text: [♪♪♪]
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 966298ms
+End Time(in millisecond): 971036ms
+Position: Bottom
+Plain Text: >>CRISTÓBAL, ESCÚCHAME.
+Formatted Text: 
+Text: >>CRISTÓBAL, ESCÚCHAME.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 968534ms
+End Time(in millisecond): 971737ms
+Position: Bottom
+Plain Text: >>POR FAVOR, DÉJAME EN PAZ,
+Formatted Text: 
+Text: >>POR FAVOR, DÉJAME EN PAZ,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 969635ms
+End Time(in millisecond): 972438ms
+Position: Bottom
+Plain Text: ESTOY PENSANDO.
+Formatted Text: 
+Text: ESTOY PENSANDO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 971103ms
+End Time(in millisecond): 973439ms
+Position: Bottom
+Plain Text: >> IMAGINO QUE ESTÁS MUY
+Formatted Text: 
+Text: >> IMAGINO QUE ESTÁS MUY
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 971804ms
+End Time(in millisecond): 974974ms
+Position: Bottom
+Plain Text: AFECTADO POR LO QUE ESTÁ
+Formatted Text: 
+Text: AFECTADO POR LO QUE ESTÁ
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 972504ms
+End Time(in millisecond): 975841ms
+Position: Bottom
+Plain Text: OCURRIENDO.
+Formatted Text: 
+Text: OCURRIENDO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 973505ms
+End Time(in millisecond): 977543ms
+Position: Bottom
+Plain Text: TODOS LO ESTAMOS, PERO
+Formatted Text: 
+Text: TODOS LO ESTAMOS, PERO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 975040ms
+End Time(in millisecond): 978444ms
+Position: Bottom
+Plain Text: TENEMOS QUE PERMANECER
+Formatted Text: 
+Text: TENEMOS QUE PERMANECER
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 975908ms
+End Time(in millisecond): 979244ms
+Position: Bottom
+Plain Text: MÁS UNIDOS QUE NUNCA.
+Formatted Text: 
+Text: MÁS UNIDOS QUE NUNCA.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 977609ms
+End Time(in millisecond): 980012ms
+Position: Bottom
+Plain Text: PARA TODOS ES DOLOROSO
+Formatted Text: 
+Text: PARA TODOS ES DOLOROSO
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 978510ms
+End Time(in millisecond): 981847ms
+Position: Bottom
+Plain Text: SABER QUE NUESTRA MADRE
+Formatted Text: 
+Text: SABER QUE NUESTRA MADRE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 979311ms
+End Time(in millisecond): 983482ms
+Position: Bottom
+Plain Text: NOS ESTUVO MINTIENDO.
+Formatted Text: 
+Text: NOS ESTUVO MINTIENDO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 980079ms
+End Time(in millisecond): 984750ms
+Position: Bottom
+Plain Text: >>NO. PARA MÍ ES MÁS DOLOROSO,
+Formatted Text: 
+Text: >>NO. PARA MÍ ES MÁS DOLOROSO,
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 981914ms
+End Time(in millisecond): 986018ms
+Position: Bottom
+Plain Text: ESO QUE TE QUEDE CLARO.
+Formatted Text: 
+Text: ESO QUE TE QUEDE CLARO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 983549ms
+End Time(in millisecond): 988020ms
+Position: Bottom
+Plain Text: >>CRISTÓBAL, POR FAVOR.
+Formatted Text: 
+Text: >>CRISTÓBAL, POR FAVOR.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 984817ms
+End Time(in millisecond): 988020ms
+Position: Bottom
+Plain Text: >>YO SOY EL HIJO BASTARDO DE
+Formatted Text: 
+Text: >>YO SOY EL HIJO BASTARDO DE
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 986085ms
+End Time(in millisecond): 988020ms
+Position: Bottom
+Plain Text: VALENTINA Y DE ADRIANO.
+Formatted Text: 
+Text: VALENTINA Y DE ADRIANO.
+Is Bold: 0
+Is Italic: 0
+Is Underline: 0
+Font Color: #000000
+Background Color: #00FFFFFF
+ ------------------------------------------------- 
+Start Time(in millisecond): 986085ms
+End Time(in millisecond): 988020ms
+Position: Bottom
+Plain Text: 
+Formatted Text: 
+ ------------------------------------------------- 
